@@ -84,7 +84,7 @@ ui <- dashboardPage(skin="purple",
                     choices = sort(unique(overview_data1$Department)))),
      
       
-      menuItem(" Course View", tabName = "course_view",
+      menuItem("Course View", tabName = "course_view",
                icon = icon(name = "book", lib="glyphicon")),
       
       menuItem("Lecturer View", tabName = "Lecturer_View",
