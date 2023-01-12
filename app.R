@@ -201,7 +201,7 @@ ui <- dashboardPage(skin="purple",
                 valueBoxOutput("hall_view_kpi2", width = 3),
                 
                 # Heatmap
-                box(plotOutput("hall_view_plot2", height = 350, width = 500))
+                box(plotOutput("hall_view_plot2", height = 355, width = 470))
         )
       ),
       ##About tab
