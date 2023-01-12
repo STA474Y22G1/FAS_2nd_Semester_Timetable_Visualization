@@ -121,8 +121,8 @@ ui <- dashboardPage(skin="purple",
                 valueBoxOutput("overview_kpi_4", width=3)),
               
               fluidRow(
-                (box(plotlyOutput("overview_plot1", height=450),width=6)),
-                box(plotlyOutput("overview_plot2", height=450),width=6))
+                box(plotlyOutput("overview_plot1", height="450"),width=6),
+                box(plotlyOutput("overview_plot2", height="450"),width=6))
       ),
       
       # Course view tab
@@ -202,7 +202,7 @@ ui <- dashboardPage(skin="purple",
                 valueBoxOutput("hall_view_kpi2", width = 3),
                 
                 # Heatmap
-                box(plotOutput("hall_view_plot2", height = 355, width = 470))
+                box(plotOutput("hall_view_plot2", height = 355, width = 470), align="center")
         )
       ),
       ##About tab
