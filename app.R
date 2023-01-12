@@ -70,15 +70,14 @@ color_palette <- distinctColorPalette(34)
 color_palette
 
 
+
 # User Interface
 ui <- dashboardPage(skin="purple",
-  dashboardHeader(title="FAS Timetable"),
+  dashboardHeader(title="FAS Timetable" ),
   dashboardSidebar(
     sidebarMenu(id = "sidebarid",
       menuItem("Overview", tabName = "Overview",
                icon = icon(name = "eye-open", lib="glyphicon")),
-      # selectInput("option", label = h4("Select Department"),
-      #             choices = sort(unique(overview_data1$Department))),
       conditionalPanel(
         'input.sidebarid == "Overview"',
         selectInput("option", label = h5("Select Department"),
@@ -98,11 +97,17 @@ ui <- dashboardPage(skin="purple",
                icon = icon(name = "search", lib="glyphicon"))
       
     )),
-  dashboardBody(
+  dashboardBody(tags$head(tags$style(HTML('
+      .main-header .logo {
+        font-family: "Calibri", Times, "Calibri", serif;
+        font-weight: bold;
+        font-size: 28px;
+      }
+    '))),
     tabItems(
       # Overview tab
       tabItem(tabName = "Overview", 
-              fluidRow( 
+             fluidRow( 
                 #kp1
                 valueBoxOutput("overview_kpi_1", width=3),
                 
@@ -155,7 +160,9 @@ ui <- dashboardPage(skin="purple",
                 box(plotlyOutput("course_view_plot1", height = 270), width = 9, height = 300),
                 
                 # Course finder table
-                box(dataTableOutput("CourseData"), width = 12))
+                box(dataTableOutput("CourseData"), width = 12)),
+              
+              
       ),
       
       # Lecturer view tab
@@ -182,7 +189,7 @@ ui <- dashboardPage(skin="purple",
               
               fluidRow(
                 box(height = 100,
-                    selectInput("opt", label = h4("Select Lecture Hall:"),
+                    selectInput("opt", label = h4("Select Lecture Hall"),
                                 choices = lecture_halls_names)
                 ),
                 
@@ -227,13 +234,11 @@ ui <- dashboardPage(skin="purple",
         p("Under the supervision of",
             tags$a(href="https://thiyanga.netlify.app/","Dr. Thiyanga S. Talagala.")),
             h4(strong("Code")),
-            p("The code used to construct this dashboard can be found on",tags$a(href="https://github.com/STA474Y22G1/STA474Y22fastimetable", "GitHub.")),
+            p("The code used to construct this dashboard can be found on",tags$a(href="https://github.com/STA474Y22G1/FAS_2nd_Semester_Timetable_Visualization", "GitHub.")),
             h4(strong("Data")),
             p("Data for this dashboard was collected from the 12 departments operating under the Faculty of Applied Sciences of the University of Sri Jayewardenepura."),
             h4(strong("Update")),
-            p("The data used is as per the second semester timetables finalized as of 23" ,tags$sup("rd"),"December 2022 by the Dean's office.")
-        
-            
+            p("The data used is as per the second semester timetables finalized as of 23rd December 2022 by the Dean's office.")
           
         )
       ))) 
@@ -478,7 +483,7 @@ server <- function(input, output, session) {
     option_kpi1 <- lecture_hall_data %>%
       filter(`Lecture Hall` == input$opt) 
     
-    valueBox(value = tags$p(paste0(option_kpi1$`Lecture count`), style = "font-size: 50%;"),
+    valueBox(value = tags$p(paste0(option_kpi1$`Lecture count`), style = "font-size: 40%;"),
              subtitle = "Number of lectures per week",
              # color = "blue")
              color = "teal")
@@ -491,7 +496,7 @@ server <- function(input, output, session) {
     option_kpi2 <- lecture_hall_data %>%
       filter(`Lecture Hall` == input$opt) 
     
-    valueBox(value = tags$p(paste0(option_kpi2$`Bussiest Day`), style = "font-size: 50%;"),
+    valueBox(value = tags$p(paste0(option_kpi2$`Bussiest Day`), style = "font-size: 40%;"),
              subtitle = "Busiest Day/s of the Lecture Hall",
              color = "olive")
     
