@@ -1,0 +1,53 @@
+"","Department","Academic.Year","Course.Count"
+"1","Botany",1,4
+"2","Botany",2,7
+"3","Botany",3,25
+"4","Botany",4,15
+"5","Chemistry",1,3
+"6","Chemistry",2,4
+"7","Chemistry",3,25
+"8","Chemistry",4,15
+"9","Computer Science",1,6
+"10","Computer Science",2,6
+"11","Computer Science",3,13
+"12","Food Science and Tech",1,14
+"13","Food Science and Tech",2,15
+"14","Food Science and Tech",3,19
+"15","Food Science and Tech",4,5
+"16","Forestry and Environmental Science",1,6
+"17","Forestry and Environmental Science",2,6
+"18","Forestry and Environmental Science",3,18
+"19","Forestry and Environmental Science",4,5
+"20","Genetics and Molecular Biology Unit",1,2
+"21","Genetics and Molecular Biology Unit",2,3
+"22","Genetics and Molecular Biology Unit",3,9
+"23","Genetics and Molecular Biology Unit",4,5
+"24","Mathematics",1,9
+"25","Mathematics",2,9
+"26","Mathematics",3,21
+"27","Mathematics",4,7
+"28","Physics",1,4
+"29","Physics",2,4
+"30","Physics",3,11
+"31","Physics",4,4
+"32","Polymer Science",1,2
+"33","Polymer Science",2,3
+"34","Polymer Science",3,12
+"35","Polymer Science",4,5
+"36","Sports Science",1,11
+"37","Sports Science",2,9
+"38","Sports Science",3,9
+"39","Sports Science",4,3
+"40","Statistics",1,3
+"41","Statistics",2,3
+"42","Statistics",3,13
+"43","Statistics",4,7
+"44","Zoology",1,11
+"45","Zoology",2,11
+"46","Zoology",3,16
+"47","Zoology",4,8
+"48","Computer Science",4,0
+"49","All",1,75
+"50","All",2,80
+"51","All",3,191
+"52","All",4,79

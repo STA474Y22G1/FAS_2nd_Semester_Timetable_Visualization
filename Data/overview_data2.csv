@@ -1,0 +1,438 @@
+Department,Day,Time Slot,Total Number of Lectures
+All,Friday,08:00-08:50,12
+All,Friday,08:55-09:45,12
+All,Friday,10:15-11:05,20
+All,Friday,11:10-12:00,17
+All,Friday,13:00-14:00,15
+All,Friday,14:00-15:00,11
+All,Friday,15:00-16:00,4
+All,Friday,16:00-17:00,1
+All,Monday,08:00-08:50,20
+All,Monday,08:55-09:45,18
+All,Monday,10:15-11:05,23
+All,Monday,11:10-12:00,21
+All,Monday,13:00-14:00,18
+All,Monday,14:00-15:00,23
+All,Monday,15:00-16:00,13
+All,Monday,16:00-17:00,10
+All,Saturday,08:00-08:50,1
+All,Saturday,08:55-09:45,4
+All,Saturday,10:15-11:05,4
+All,Saturday,11:10-12:00,3
+All,Saturday,13:00-14:00,2
+All,Saturday,14:00-15:00,2
+All,Saturday,15:00-16:00,1
+All,Saturday,16:00-17:00,1
+All,Sunday,08:55-09:45,1
+All,Sunday,10:15-11:05,1
+All,Sunday,11:10-12:00,1
+All,Sunday,13:00-14:00,1
+All,Sunday,14:00-15:00,1
+All,Sunday,15:00-16:00,1
+All,Thursday,08:00-08:50,21
+All,Thursday,08:55-09:45,22
+All,Thursday,10:15-11:05,28
+All,Thursday,11:10-12:00,27
+All,Thursday,13:00-14:00,21
+All,Thursday,14:00-15:00,17
+All,Thursday,15:00-16:00,2
+All,Thursday,16:00-17:00,2
+All,Tuesday,08:00-08:50,14
+All,Tuesday,08:55-09:45,16
+All,Tuesday,10:15-11:05,24
+All,Tuesday,11:10-12:00,26
+All,Tuesday,13:00-14:00,25
+All,Tuesday,14:00-15:00,23
+All,Tuesday,15:00-16:00,11
+All,Tuesday,16:00-17:00,7
+All,Wednesday,08:00-08:50,20
+All,Wednesday,08:55-09:45,22
+All,Wednesday,10:15-11:05,19
+All,Wednesday,11:10-12:00,21
+All,Wednesday,13:00-14:00,21
+All,Wednesday,14:00-15:00,18
+All,Wednesday,15:00-16:00,6
+All,Wednesday,16:00-17:00,6
+Botany,Friday,13:00-14:00,1
+Botany,Friday,14:00-15:00,1
+Botany,Monday,08:00-08:50,3
+Botany,Monday,08:55-09:45,3
+Botany,Monday,10:15-11:05,1
+Botany,Monday,11:10-12:00,1
+Botany,Monday,13:00-14:00,1
+Botany,Monday,14:00-15:00,3
+Botany,Monday,15:00-16:00,3
+Botany,Monday,16:00-17:00,2
+Botany,Saturday,08:55-09:45,1
+Botany,Saturday,10:15-11:05,1
+Botany,Saturday,11:10-12:00,1
+Botany,Saturday,13:00-14:00,1
+Botany,Saturday,14:00-15:00,1
+Botany,Sunday,08:55-09:45,1
+Botany,Sunday,10:15-11:05,1
+Botany,Sunday,11:10-12:00,1
+Botany,Sunday,13:00-14:00,1
+Botany,Sunday,14:00-15:00,1
+Botany,Sunday,15:00-16:00,1
+Botany,Thursday,08:00-08:50,1
+Botany,Thursday,08:55-09:45,1
+Botany,Thursday,10:15-11:05,4
+Botany,Thursday,11:10-12:00,4
+Botany,Thursday,13:00-14:00,1
+Botany,Thursday,14:00-15:00,1
+Botany,Tuesday,08:00-08:50,2
+Botany,Tuesday,08:55-09:45,2
+Botany,Tuesday,10:15-11:05,3
+Botany,Tuesday,11:10-12:00,3
+Botany,Tuesday,13:00-14:00,1
+Botany,Tuesday,14:00-15:00,1
+Botany,Tuesday,15:00-16:00,2
+Botany,Tuesday,16:00-17:00,1
+Botany,Wednesday,08:00-08:50,1
+Botany,Wednesday,08:55-09:45,1
+Botany,Wednesday,13:00-14:00,5
+Botany,Wednesday,14:00-15:00,5
+Botany,Wednesday,15:00-16:00,1
+Botany,Wednesday,16:00-17:00,1
+Chemistry,Friday,10:15-11:05,1
+Chemistry,Friday,11:10-12:00,1
+Chemistry,Monday,08:00-08:50,3
+Chemistry,Monday,08:55-09:45,1
+Chemistry,Monday,10:15-11:05,3
+Chemistry,Monday,11:10-12:00,3
+Chemistry,Monday,13:00-14:00,3
+Chemistry,Monday,14:00-15:00,2
+Chemistry,Monday,15:00-16:00,1
+Chemistry,Monday,16:00-17:00,3
+Chemistry,Thursday,08:00-08:50,2
+Chemistry,Thursday,08:55-09:45,2
+Chemistry,Thursday,10:15-11:05,2
+Chemistry,Thursday,11:10-12:00,2
+Chemistry,Thursday,13:00-14:00,2
+Chemistry,Thursday,14:00-15:00,1
+Chemistry,Tuesday,08:00-08:50,4
+Chemistry,Tuesday,08:55-09:45,1
+Chemistry,Tuesday,10:15-11:05,1
+Chemistry,Tuesday,11:10-12:00,1
+Chemistry,Tuesday,13:00-14:00,1
+Chemistry,Tuesday,16:00-17:00,1
+Chemistry,Wednesday,08:00-08:50,1
+Chemistry,Wednesday,08:55-09:45,2
+Chemistry,Wednesday,10:15-11:05,2
+Chemistry,Wednesday,11:10-12:00,3
+Chemistry,Wednesday,13:00-14:00,1
+Computer Science,Friday,10:15-11:05,1
+Computer Science,Friday,11:10-12:00,1
+Computer Science,Monday,08:00-08:50,2
+Computer Science,Monday,08:55-09:45,2
+Computer Science,Monday,10:15-11:05,2
+Computer Science,Monday,11:10-12:00,2
+Computer Science,Monday,13:00-14:00,1
+Computer Science,Monday,14:00-15:00,2
+Computer Science,Monday,15:00-16:00,1
+Computer Science,Thursday,08:00-08:50,1
+Computer Science,Thursday,08:55-09:45,1
+Computer Science,Thursday,10:15-11:05,2
+Computer Science,Thursday,11:10-12:00,2
+Computer Science,Thursday,13:00-14:00,3
+Computer Science,Thursday,14:00-15:00,3
+Computer Science,Tuesday,08:00-08:50,3
+Computer Science,Tuesday,08:55-09:45,3
+Computer Science,Tuesday,10:15-11:05,1
+Computer Science,Tuesday,11:10-12:00,1
+Computer Science,Tuesday,13:00-14:00,1
+Computer Science,Tuesday,14:00-15:00,1
+Computer Science,Tuesday,15:00-16:00,1
+Computer Science,Tuesday,16:00-17:00,1
+Computer Science,Wednesday,08:00-08:50,3
+Computer Science,Wednesday,08:55-09:45,3
+Computer Science,Wednesday,10:15-11:05,2
+Computer Science,Wednesday,11:10-12:00,2
+Computer Science,Wednesday,13:00-14:00,1
+Computer Science,Wednesday,14:00-15:00,1
+Food Science and Tech,Friday,08:00-08:50,1
+Food Science and Tech,Friday,08:55-09:45,2
+Food Science and Tech,Friday,10:15-11:05,2
+Food Science and Tech,Friday,11:10-12:00,2
+Food Science and Tech,Friday,13:00-14:00,2
+Food Science and Tech,Friday,14:00-15:00,1
+Food Science and Tech,Friday,15:00-16:00,1
+Food Science and Tech,Monday,08:00-08:50,2
+Food Science and Tech,Monday,08:55-09:45,2
+Food Science and Tech,Monday,10:15-11:05,2
+Food Science and Tech,Monday,11:10-12:00,2
+Food Science and Tech,Monday,13:00-14:00,1
+Food Science and Tech,Monday,14:00-15:00,1
+Food Science and Tech,Monday,15:00-16:00,1
+Food Science and Tech,Thursday,08:00-08:50,1
+Food Science and Tech,Thursday,08:55-09:45,2
+Food Science and Tech,Thursday,10:15-11:05,2
+Food Science and Tech,Thursday,11:10-12:00,2
+Food Science and Tech,Thursday,13:00-14:00,1
+Food Science and Tech,Thursday,14:00-15:00,1
+Food Science and Tech,Thursday,15:00-16:00,1
+Food Science and Tech,Tuesday,08:00-08:50,1
+Food Science and Tech,Tuesday,08:55-09:45,1
+Food Science and Tech,Tuesday,10:15-11:05,1
+Food Science and Tech,Tuesday,11:10-12:00,2
+Food Science and Tech,Tuesday,13:00-14:00,2
+Food Science and Tech,Tuesday,14:00-15:00,2
+Food Science and Tech,Tuesday,16:00-17:00,1
+Food Science and Tech,Wednesday,08:00-08:50,1
+Food Science and Tech,Wednesday,08:55-09:45,1
+Food Science and Tech,Wednesday,10:15-11:05,2
+Food Science and Tech,Wednesday,11:10-12:00,2
+Food Science and Tech,Wednesday,13:00-14:00,2
+Food Science and Tech,Wednesday,14:00-15:00,1
+Forestry and Environmental Science,Friday,08:00-08:50,1
+Forestry and Environmental Science,Friday,11:10-12:00,1
+Forestry and Environmental Science,Friday,13:00-14:00,1
+Forestry and Environmental Science,Monday,11:10-12:00,1
+Forestry and Environmental Science,Monday,13:00-14:00,2
+Forestry and Environmental Science,Monday,14:00-15:00,2
+Forestry and Environmental Science,Thursday,08:00-08:50,5
+Forestry and Environmental Science,Thursday,08:55-09:45,5
+Forestry and Environmental Science,Thursday,10:15-11:05,2
+Forestry and Environmental Science,Thursday,11:10-12:00,2
+Forestry and Environmental Science,Thursday,13:00-14:00,4
+Forestry and Environmental Science,Thursday,14:00-15:00,4
+Forestry and Environmental Science,Thursday,15:00-16:00,1
+Forestry and Environmental Science,Thursday,16:00-17:00,1
+Forestry and Environmental Science,Tuesday,08:00-08:50,1
+Forestry and Environmental Science,Tuesday,08:55-09:45,1
+Forestry and Environmental Science,Tuesday,10:15-11:05,1
+Forestry and Environmental Science,Tuesday,11:10-12:00,1
+Forestry and Environmental Science,Tuesday,13:00-14:00,5
+Forestry and Environmental Science,Tuesday,14:00-15:00,5
+Forestry and Environmental Science,Tuesday,15:00-16:00,1
+Forestry and Environmental Science,Tuesday,16:00-17:00,1
+Forestry and Environmental Science,Wednesday,08:00-08:50,3
+Forestry and Environmental Science,Wednesday,08:55-09:45,3
+Forestry and Environmental Science,Wednesday,10:15-11:05,2
+Forestry and Environmental Science,Wednesday,11:10-12:00,2
+Forestry and Environmental Science,Wednesday,13:00-14:00,3
+Forestry and Environmental Science,Wednesday,14:00-15:00,3
+Forestry and Environmental Science,Wednesday,15:00-16:00,1
+Forestry and Environmental Science,Wednesday,16:00-17:00,1
+Genetics and Molecular Biology Unit,Friday,13:00-14:00,1
+Genetics and Molecular Biology Unit,Friday,14:00-15:00,1
+Genetics and Molecular Biology Unit,Monday,08:00-08:50,1
+Genetics and Molecular Biology Unit,Monday,08:55-09:45,1
+Genetics and Molecular Biology Unit,Monday,10:15-11:05,3
+Genetics and Molecular Biology Unit,Monday,11:10-12:00,3
+Genetics and Molecular Biology Unit,Monday,13:00-14:00,2
+Genetics and Molecular Biology Unit,Monday,14:00-15:00,2
+Genetics and Molecular Biology Unit,Monday,15:00-16:00,1
+Genetics and Molecular Biology Unit,Saturday,08:55-09:45,1
+Genetics and Molecular Biology Unit,Saturday,10:15-11:05,1
+Genetics and Molecular Biology Unit,Thursday,08:00-08:50,1
+Genetics and Molecular Biology Unit,Thursday,08:55-09:45,1
+Genetics and Molecular Biology Unit,Thursday,13:00-14:00,1
+Genetics and Molecular Biology Unit,Tuesday,10:15-11:05,2
+Genetics and Molecular Biology Unit,Tuesday,11:10-12:00,2
+Genetics and Molecular Biology Unit,Tuesday,13:00-14:00,1
+Genetics and Molecular Biology Unit,Tuesday,14:00-15:00,1
+Genetics and Molecular Biology Unit,Tuesday,15:00-16:00,1
+Genetics and Molecular Biology Unit,Tuesday,16:00-17:00,1
+Genetics and Molecular Biology Unit,Wednesday,08:00-08:50,2
+Genetics and Molecular Biology Unit,Wednesday,08:55-09:45,2
+Genetics and Molecular Biology Unit,Wednesday,10:15-11:05,1
+Genetics and Molecular Biology Unit,Wednesday,11:10-12:00,1
+Mathematics,Friday,08:00-08:50,4
+Mathematics,Friday,08:55-09:45,2
+Mathematics,Friday,10:15-11:05,5
+Mathematics,Friday,11:10-12:00,3
+Mathematics,Friday,13:00-14:00,2
+Mathematics,Friday,14:00-15:00,2
+Mathematics,Friday,15:00-16:00,1
+Mathematics,Monday,08:00-08:50,2
+Mathematics,Monday,08:55-09:45,2
+Mathematics,Monday,10:15-11:05,4
+Mathematics,Monday,11:10-12:00,4
+Mathematics,Monday,13:00-14:00,3
+Mathematics,Monday,14:00-15:00,2
+Mathematics,Monday,16:00-17:00,1
+Mathematics,Thursday,08:00-08:50,1
+Mathematics,Thursday,08:55-09:45,2
+Mathematics,Thursday,10:15-11:05,4
+Mathematics,Thursday,11:10-12:00,4
+Mathematics,Thursday,13:00-14:00,3
+Mathematics,Thursday,14:00-15:00,3
+Mathematics,Tuesday,08:55-09:45,1
+Mathematics,Tuesday,10:15-11:05,5
+Mathematics,Tuesday,11:10-12:00,5
+Mathematics,Tuesday,13:00-14:00,3
+Mathematics,Tuesday,14:00-15:00,3
+Mathematics,Tuesday,15:00-16:00,1
+Mathematics,Wednesday,08:00-08:50,4
+Mathematics,Wednesday,08:55-09:45,4
+Mathematics,Wednesday,10:15-11:05,3
+Mathematics,Wednesday,11:10-12:00,3
+Mathematics,Wednesday,13:00-14:00,3
+Mathematics,Wednesday,14:00-15:00,2
+Mathematics,Wednesday,15:00-16:00,1
+Physics,Friday,08:00-08:50,1
+Physics,Friday,08:55-09:45,2
+Physics,Friday,10:15-11:05,2
+Physics,Friday,11:10-12:00,2
+Physics,Friday,13:00-14:00,1
+Physics,Friday,14:00-15:00,1
+Physics,Friday,15:00-16:00,1
+Physics,Monday,08:00-08:50,1
+Physics,Monday,08:55-09:45,1
+Physics,Monday,13:00-14:00,1
+Physics,Monday,14:00-15:00,2
+Physics,Monday,15:00-16:00,2
+Physics,Thursday,10:15-11:05,1
+Physics,Thursday,11:10-12:00,1
+Physics,Thursday,16:00-17:00,1
+Physics,Tuesday,08:00-08:50,1
+Physics,Tuesday,08:55-09:45,2
+Physics,Tuesday,10:15-11:05,4
+Physics,Tuesday,11:10-12:00,4
+Physics,Tuesday,13:00-14:00,1
+Physics,Tuesday,14:00-15:00,1
+Physics,Tuesday,15:00-16:00,2
+Physics,Tuesday,16:00-17:00,1
+Physics,Wednesday,08:55-09:45,1
+Physics,Wednesday,10:15-11:05,1
+Physics,Wednesday,11:10-12:00,1
+Physics,Wednesday,13:00-14:00,1
+Physics,Wednesday,14:00-15:00,1
+Physics,Wednesday,15:00-16:00,1
+Physics,Wednesday,16:00-17:00,2
+Polymer Science,Friday,10:15-11:05,1
+Polymer Science,Friday,11:10-12:00,1
+Polymer Science,Friday,13:00-14:00,1
+Polymer Science,Monday,08:55-09:45,1
+Polymer Science,Monday,10:15-11:05,2
+Polymer Science,Monday,11:10-12:00,1
+Polymer Science,Monday,13:00-14:00,1
+Polymer Science,Monday,14:00-15:00,1
+Polymer Science,Thursday,08:00-08:50,2
+Polymer Science,Thursday,08:55-09:45,1
+Polymer Science,Thursday,10:15-11:05,3
+Polymer Science,Thursday,11:10-12:00,2
+Polymer Science,Thursday,13:00-14:00,2
+Polymer Science,Thursday,14:00-15:00,1
+Polymer Science,Tuesday,08:55-09:45,2
+Polymer Science,Tuesday,10:15-11:05,1
+Polymer Science,Tuesday,11:10-12:00,1
+Polymer Science,Tuesday,13:00-14:00,3
+Polymer Science,Tuesday,14:00-15:00,2
+Polymer Science,Tuesday,15:00-16:00,1
+Polymer Science,Wednesday,08:00-08:50,1
+Polymer Science,Wednesday,10:15-11:05,1
+Polymer Science,Wednesday,11:10-12:00,1
+Polymer Science,Wednesday,16:00-17:00,1
+Sports Science,Friday,08:00-08:50,4
+Sports Science,Friday,08:55-09:45,4
+Sports Science,Friday,10:15-11:05,4
+Sports Science,Friday,11:10-12:00,2
+Sports Science,Friday,13:00-14:00,3
+Sports Science,Friday,14:00-15:00,3
+Sports Science,Friday,15:00-16:00,1
+Sports Science,Friday,16:00-17:00,1
+Sports Science,Monday,08:00-08:50,2
+Sports Science,Monday,08:55-09:45,2
+Sports Science,Monday,10:15-11:05,3
+Sports Science,Monday,11:10-12:00,2
+Sports Science,Monday,13:00-14:00,2
+Sports Science,Monday,14:00-15:00,3
+Sports Science,Monday,15:00-16:00,2
+Sports Science,Monday,16:00-17:00,2
+Sports Science,Saturday,08:00-08:50,1
+Sports Science,Saturday,08:55-09:45,1
+Sports Science,Saturday,10:15-11:05,1
+Sports Science,Saturday,11:10-12:00,1
+Sports Science,Saturday,13:00-14:00,1
+Sports Science,Saturday,14:00-15:00,1
+Sports Science,Saturday,15:00-16:00,1
+Sports Science,Saturday,16:00-17:00,1
+Sports Science,Thursday,08:00-08:50,3
+Sports Science,Thursday,08:55-09:45,3
+Sports Science,Thursday,10:15-11:05,3
+Sports Science,Thursday,11:10-12:00,3
+Sports Science,Thursday,13:00-14:00,3
+Sports Science,Thursday,14:00-15:00,2
+Sports Science,Tuesday,08:00-08:50,1
+Sports Science,Tuesday,08:55-09:45,1
+Sports Science,Tuesday,10:15-11:05,2
+Sports Science,Tuesday,11:10-12:00,2
+Sports Science,Tuesday,13:00-14:00,2
+Sports Science,Tuesday,14:00-15:00,2
+Sports Science,Tuesday,15:00-16:00,2
+Sports Science,Wednesday,08:00-08:50,2
+Sports Science,Wednesday,08:55-09:45,2
+Sports Science,Wednesday,10:15-11:05,3
+Sports Science,Wednesday,11:10-12:00,3
+Sports Science,Wednesday,13:00-14:00,3
+Sports Science,Wednesday,14:00-15:00,3
+Sports Science,Wednesday,15:00-16:00,2
+Sports Science,Wednesday,16:00-17:00,1
+Statistics,Friday,08:00-08:50,1
+Statistics,Friday,08:55-09:45,1
+Statistics,Friday,10:15-11:05,3
+Statistics,Friday,11:10-12:00,3
+Statistics,Friday,13:00-14:00,1
+Statistics,Friday,14:00-15:00,1
+Statistics,Monday,08:00-08:50,1
+Statistics,Monday,08:55-09:45,1
+Statistics,Monday,10:15-11:05,2
+Statistics,Monday,11:10-12:00,2
+Statistics,Monday,13:00-14:00,1
+Statistics,Monday,14:00-15:00,1
+Statistics,Monday,15:00-16:00,1
+Statistics,Monday,16:00-17:00,2
+Statistics,Thursday,08:00-08:50,3
+Statistics,Thursday,08:55-09:45,3
+Statistics,Thursday,10:15-11:05,2
+Statistics,Thursday,11:10-12:00,2
+Statistics,Thursday,13:00-14:00,1
+Statistics,Thursday,14:00-15:00,1
+Statistics,Tuesday,08:00-08:50,1
+Statistics,Tuesday,08:55-09:45,1
+Statistics,Tuesday,10:15-11:05,2
+Statistics,Tuesday,11:10-12:00,2
+Statistics,Tuesday,13:00-14:00,3
+Statistics,Tuesday,14:00-15:00,3
+Statistics,Tuesday,15:00-16:00,1
+Statistics,Tuesday,16:00-17:00,1
+Statistics,Wednesday,08:00-08:50,2
+Statistics,Wednesday,08:55-09:45,2
+Statistics,Wednesday,10:15-11:05,2
+Statistics,Wednesday,11:10-12:00,2
+Statistics,Wednesday,13:00-14:00,1
+Statistics,Wednesday,14:00-15:00,1
+Statistics,Wednesday,16:00-17:00,1
+Zoology,Friday,08:55-09:45,1
+Zoology,Friday,10:15-11:05,1
+Zoology,Friday,11:10-12:00,1
+Zoology,Friday,13:00-14:00,2
+Zoology,Friday,14:00-15:00,1
+Zoology,Monday,08:00-08:50,3
+Zoology,Monday,08:55-09:45,2
+Zoology,Monday,10:15-11:05,1
+Zoology,Monday,11:10-12:00,1
+Zoology,Monday,13:00-14:00,1
+Zoology,Monday,14:00-15:00,3
+Zoology,Monday,15:00-16:00,1
+Zoology,Saturday,08:55-09:45,1
+Zoology,Saturday,10:15-11:05,1
+Zoology,Saturday,11:10-12:00,1
+Zoology,Thursday,08:00-08:50,1
+Zoology,Thursday,08:55-09:45,1
+Zoology,Thursday,10:15-11:05,4
+Zoology,Thursday,11:10-12:00,3
+Zoology,Tuesday,08:55-09:45,1
+Zoology,Tuesday,10:15-11:05,1
+Zoology,Tuesday,11:10-12:00,2
+Zoology,Tuesday,13:00-14:00,2
+Zoology,Tuesday,14:00-15:00,2
+Zoology,Tuesday,16:00-17:00,1
+Zoology,Wednesday,08:00-08:50,1
+Zoology,Wednesday,08:55-09:45,1
+Zoology,Wednesday,11:10-12:00,1
+Zoology,Wednesday,13:00-14:00,2
+Zoology,Wednesday,14:00-15:00,2
+Zoology,Wednesday,16:00-17:00,1

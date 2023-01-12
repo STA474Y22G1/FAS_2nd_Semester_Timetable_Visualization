@@ -1,0 +1,73 @@
+Day,Department,Total Number of Lectures
+Friday,All,51
+Monday,All,94
+Saturday,All,6
+Sunday,All,1
+Thursday,All,88
+Tuesday,All,91
+Wednesday,All,80
+Friday,Botany,1
+Friday,Chemistry,2
+Friday,Computer Science,1
+Friday,Food Science and Tech,9
+Friday,Forestry and Environmental Science,3
+Friday,Genetics and Molecular Biology Unit,1
+Friday,Mathematics,10
+Friday,Physics,3
+Friday,Polymer Science,2
+Friday,Sports Science,10
+Friday,Statistics,5
+Friday,Zoology,4
+Monday,Botany,13
+Monday,Chemistry,15
+Monday,Computer Science,6
+Monday,Food Science and Tech,10
+Monday,Forestry and Environmental Science,3
+Monday,Genetics and Molecular Biology Unit,7
+Monday,Mathematics,10
+Monday,Physics,4
+Monday,Polymer Science,4
+Monday,Sports Science,8
+Monday,Statistics,6
+Monday,Zoology,10
+Saturday,Botany,2
+Saturday,Genetics and Molecular Biology Unit,1
+Saturday,Sports Science,2
+Saturday,Zoology,1
+Sunday,Botany,1
+Thursday,Botany,7
+Thursday,Chemistry,10
+Thursday,Computer Science,6
+Thursday,Food Science and Tech,9
+Thursday,Forestry and Environmental Science,12
+Thursday,Genetics and Molecular Biology Unit,2
+Thursday,Mathematics,11
+Thursday,Physics,3
+Thursday,Polymer Science,8
+Thursday,Sports Science,7
+Thursday,Statistics,6
+Thursday,Zoology,7
+Tuesday,Botany,11
+Tuesday,Chemistry,9
+Tuesday,Computer Science,6
+Tuesday,Food Science and Tech,10
+Tuesday,Forestry and Environmental Science,8
+Tuesday,Genetics and Molecular Biology Unit,4
+Tuesday,Mathematics,8
+Tuesday,Physics,10
+Tuesday,Polymer Science,7
+Tuesday,Sports Science,6
+Tuesday,Statistics,7
+Tuesday,Zoology,7
+Wednesday,Botany,8
+Wednesday,Chemistry,9
+Wednesday,Computer Science,6
+Wednesday,Food Science and Tech,7
+Wednesday,Forestry and Environmental Science,9
+Wednesday,Genetics and Molecular Biology Unit,3
+Wednesday,Mathematics,11
+Wednesday,Physics,4
+Wednesday,Polymer Science,3
+Wednesday,Sports Science,10
+Wednesday,Statistics,6
+Wednesday,Zoology,6

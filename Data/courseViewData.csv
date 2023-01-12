@@ -1,0 +1,642 @@
+Department,Day,Starting.Time,Ending.Time,Course.Title,Course.Code,Subject.Code,Course,Academic.Year,Location,Lecture.Type,Lecturer.in.charge,Lecture.Time,Degree.Type,Stream
+Forestry and Environmental Science,Tuesday,1970-01-01T08:55:00Z,1970-01-01T15:00:00Z,Practicals,EMF P,EMF,EMF P Practicals,2,P,Practicals,NA,08:55-15:00,General,Biology
+Forestry and Environmental Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Wood Science and Forest Based Industries,EMF 216 2.0,EMF,EMF 216 2.0 Wood Science and Forest Based Industries,2,F1,Lecture,Prof. Hiran Amarasekera,08:00-09:45,General,Biology
+Forestry and Environmental Science,Friday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Principles in Hydrology and Climatology,EMF 222 1.0,EMF,EMF 222 1.0 Principles in Hydrology and Climatology,2,F1,Lecture,Dr. Thilak Chandrathilake,11:10-12:00,General,Biology
+Forestry and Environmental Science,Friday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Tree Diversity and Systematics,EMF 218 1.0,EMF,EMF 218 1.0 Tree Diversity and Systematics,2,F1,Lecture,Snr. Prof. BMP Singhakumara,13:00-14:00,General,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Environmental Chemistry,EMF 102 1.0,EMF,EMF 102 1.0 Environmental Chemistry,1,F1,Lecture,Dr. Chaamila Pathirana,08:00-09:45,General,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Forest Biology,EMF 108 1.0,EMF,EMF 108 1.0 Forest Biology,1,F1,Lecture,Prof. Hiran Amarasekera,08:00-09:45,General,Biology
+Forestry and Environmental Science,Friday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Practicals,EMF P,EMF,EMF P Practicals,1,P,Practicals,NA,08:55-16:00,General,Biology
+Forestry and Environmental Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Principles of Wildlife Ecology,EMF 117 1.0,EMF,EMF 117 1.0 Principles of Wildlife Ecology,1,F1,Lecture,Prof. Priyan Perera,13:00-15:00,General,Biology
+Forestry and Environmental Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,General Geology and Soil Science,EMF 114 1.0,EMF,EMF 114 1.0 General Geology and Soil Science,1,F1,Lecture,Dr. Daham Jayawardana,13:00-15:00,General,Biology
+Forestry and Environmental Science,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Ecotourism Planning and Management,EMF 330 1.0,EMF,EMF 330 1.0 Ecotourism Planning and Management,3,F1,Lecture,Prof. Priyan Perera,13:00-15:00,General,Biology
+Forestry and Environmental Science,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Ecotourism Planning and Management,EMF 330 1.0,EMF,EMF 330 1.0 Ecotourism Planning and Management,3,F1,Lecture,Prof. Priyan Perera,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Project Planning and Analysis,EMF 331 1.0,EMF,EMF 331 1.0 Project Planning and Analysis,3,F1,Lecture,Prof. Prasanthi Gunawardena,13:00-15:00,General,Biology
+Forestry and Environmental Science,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Project Planning and Analysis,EMF 331 1.0,EMF,EMF 331 1.0 Project Planning and Analysis,3,F1,Lecture,Prof. Prasanthi Gunawardena,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Integrated Resource Management,EMF 370 1.0,EMF,EMF 370 1.0 Integrated Resource Management,3,F1,Lecture,Prof. Prasanthi Gunawardena,13:00-15:00,General,Biology
+Forestry and Environmental Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Integrated Resource Management,EMF 370 1.0,EMF,EMF 370 1.0 Integrated Resource Management,3,F1,Lecture,Prof. Prasanthi Gunawardena,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Forest Management,EMF 307 1.0,EMF,EMF 307 1.0 Forest Management,3,F2,Lecture,Prof. Upul Subasinghe,13:00-15:00,General,Biology
+Forestry and Environmental Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Forest Management,EMF 307 1.0,EMF,EMF 307 1.0 Forest Management,3,F2,Lecture,Prof. Upul Subasinghe,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Land Use Planning and Management,EMF 322 1.0,EMF,EMF 322 1.0 Land Use Planning and Management,3,F3,Lecture,Prof. Padma Weerakoon / Mr. B.A. Jayananda,08:00-09:45,General,Biology
+Forestry and Environmental Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Land Use Planning and Management,EMF 322 1.0,EMF,EMF 322 1.0 Land Use Planning and Management,3,F3,Lecture,Prof. Padma Weerakoon / Mr. B.A. Jayananda,08:00-09:45,Special,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Advanced Resource Economics,EMF 359 1.0,EMF,EMF 359 1.0 Advanced Resource Economics,3,F1,Lecture,Prof. Prasanthi Gunawardena,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Forest Pathology and Entomology,EMF 318 1.0,EMF,EMF 318 1.0 Forest Pathology and Entomology,3,F1,Lecture,Dr. Wathsala Udari,13:00-15:00,General,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Forest Pathology and Entomology,EMF 318 1.0,EMF,EMF 318 1.0 Forest Pathology and Entomology,3,F1,Lecture,Dr. Wathsala Udari,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Agroforestry and Social Forestry,EMF 311 1.0,EMF,EMF 311 1.0 Agroforestry and Social Forestry,3,F1,Lecture,Ms. Nileththi Shilpa,15:00-17:00,General,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Agroforestry and Social Forestry,EMF 311 1.0,EMF,EMF 311 1.0 Agroforestry and Social Forestry,3,F1,Lecture,Ms. Nileththi Shilpa,15:00-17:00,Special,Biology
+Forestry and Environmental Science,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Environmental Microbiology,EMF 353 1.0,EMF,EMF 353 1.0 Environmental Microbiology,3,SP - Forestry,Lecture,Snr. Prof. M. M. Pathmalal,11:10-12:00,Special,Biology
+Forestry and Environmental Science,Tuesday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Research Methodology,EMF 357 1.0,EMF,EMF 357 1.0 Research Methodology,3,SP - Forestry,Lecture,Prof. Upul Subasinghe,15:00-17:00,Special,Biology
+Forestry and Environmental Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Urban Forestry,EMF 371 1.0,EMF,EMF 371 1.0 Urban Forestry,3,F1,Lecture,Dr. Thilak Chandrathilake,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Cleaner Production and Green Technology,EMF 369 1.0,EMF,EMF 369 1.0 Cleaner Production and Green Technology,3,F1,Lecture,Dr. Chaamila Pathirana,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Indigenous Knowledge in Natural Resource Management,EMF 361 1.0,EMF,EMF 361 1.0 Indigenous Knowledge in Natural Resource Management,3,SP - Forestry,Lecture,Prof. Danister Perera,08:00-09:45,Special,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Green Business Development,EMF 362 1.0,EMF,EMF 362 1.0 Green Business Development,3,SP - Forestry,Lecture,Snr. Prof. Rohini Samarasinghe,08:00-09:45,Special,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Advanced Silviculture,EMF 358 1.0,EMF,EMF 358 1.0 Advanced Silviculture,3,F1,Lecture,Ms. Nileththi Shilpa,10:15-12:00,Special,Biology
+Forestry and Environmental Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Forestry for Rural Development,EMF 459 1.0,EMF,EMF 459 1.0 Forestry for Rural Development,4,SP - Forestry,Lecture,Ms. Nileththi Shilpa,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Wood Based Composites,EMF 458 1.0,EMF,EMF 458 1.0 Wood Based Composites,4,SP - Forestry,Lecture,Prof. Hiran Amarasekera,10:15-12:00,Special,Biology
+Forestry and Environmental Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Land Reclamation and Soil Remediation,EMF 472 1.0,EMF,EMF 472 1.0 Land Reclamation and Soil Remediation,4,SP - Forestry,Lecture,Dr. Daham Jayawardana,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Assignment on Forest Management Plan Preparation,EMF 454 2.0,EMF,EMF 454 2.0 Assignment on Forest Management Plan Preparation,4,SP - Forestry,Lecture,Prof. Upul Subasinghe,10:15-12:00,Special,Biology
+Forestry and Environmental Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Energy and Environment,EMF 471 1.0,EMF,EMF 471 1.0 Energy and Environment,4,SP - Forestry,Lecture,Dr. Daham Jayawardana,13:00-15:00,Special,Biology
+Forestry and Environmental Science,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Environmental Economics,ECN 104 2.0,ECN,ECN 104 2.0 Environmental Economics,1,BLT,Lecture,Prof. B W R Damayanthi / Dr. J M M Udugama,10:15-12:00,General,Physical
+Forestry and Environmental Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Principles of Macroeconomics,ECN 103 3.0,ECN,ECN 103 3.0 Principles of Macroeconomics,1,F3,Lecture,Mr. Anura Jayasinghe,08:00-09:45,General,Physical
+Forestry and Environmental Science,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Intermediate Macroeconomics,ECN 203 3.0,ECN,ECN 203 3.0 Intermediate Macroeconomics,2,F1,Lecture,Prof. B W R Damayanthi,10:15-12:00,General,Physical
+Forestry and Environmental Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Intermediate Macroeconomics,ECN 203 3.1,ECN,ECN 203 3.1 Intermediate Macroeconomics,2,F2,Lecture,Prof. B W R Damayanthi,08:00-09:45,General,Physical
+Forestry and Environmental Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Advanced Resource Economics,ECN 204 3.0,ECN,ECN 204 3.0 Advanced Resource Economics,2,F3,Lecture,Prof. U A D P Gunawardena,13:00-15:00,General,Physical
+Forestry and Environmental Science,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Advanced Resource Economics,ECN 303 2.0,ECN,ECN 303 2.0 Advanced Resource Economics,3,F1,Lecture,Ms. K D De S Jayasekara,08:00-09:45,General,Physical
+Forestry and Environmental Science,Wednesday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Project Planning and Analysis,ECN 304 2.0,ECN,ECN 304 2.0 Project Planning and Analysis,3,F1,Lecture,Prof. U A D P Gunawardena / Dr. Chandarasekara,15:00-17:00,General,Physical
+Forestry and Environmental Science,Friday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Health Economics,ECN 305 1.0,ECN,ECN 305 1.0 Health Economics,3,F3,Lecture,Ms. C T Jayaratne,08:00-08:50,General,Physical
+Food Science and Tech,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Principles of Organic Chemistry,FST 167 1.0,FST,FST 167 1.0 Principles of Organic Chemistry,1,S1,Lecture,Dr. Laksiri Weerasinghe,08:00-08:50,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Introduction To Animal Based Food products,FST 170 1.0,FST,FST 170 1.0 Introduction To Animal Based Food products,1,NFC5,Lecture,Prof. I. Wickramasinghe,10:15-11:05,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Introduction To Animal Based Food products,FSC 122 2.0,FSC,FSC 122 2.0 Introduction To Animal Based Food products,1,NFC5,Lecture,Prof. I. Wickramasinghe,10:15-11:05,General,Biology
+Food Science and Tech,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Introduction To Crop Based Food Products,FST 175 1.0,FST,FST 175 1.0 Introduction To Crop Based Food Products,1,NFC5,Lecture,Dr. Madhura Jayasinghe,11:10-12:00,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Introduction To Crop Based Food Products,FSC 122 2.0,FSC,FSC 122 2.0 Introduction To Crop Based Food Products,1,NFC5,Lecture,Dr. Madhura Jayasinghe,11:10-12:00,General,Biology
+Food Science and Tech,Monday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Chemistry of Living system,FST 163 1.0,FST,FST 163 1.0 Chemistry of Living system,1,NFC5,Lecture,Prof. Jagath Wansapala,15:00-16:00,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Basics of Biochemistry,FSC 131 1.0,FSC,FSC 131 1.0 Basics of Biochemistry,1,NFC5,Lecture,Prof. Jagath Wansapala,15:00-16:00,General,Biology
+Food Science and Tech,Tuesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Introduction to Analytical Chemistry,FST 164 2.0,FST,FST 164 2.0 Introduction to Analytical Chemistry,1,S1,Lecture,Dr. Asitha Cooray,08:00-08:50,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Principles of Physics II,FST 180 1.0,FST,FST 180 1.0 Principles of Physics II,1,NFC2,Lecture,Mr. Chehan Yapa,11:10-12:00,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Applied Human Nutrition,FST 169 1.0,FST,FST 169 1.0 Applied Human Nutrition,1,NFC2,Lecture,Dr. Madhura Jayasinghe,13:00-14:00,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Organizational Behavior,FST 158 1.0,FST,FST 158 1.0 Organizational Behavior,1,NFC2,Lecture,Dr. Dulani Somendrika,14:00-15:00,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Chemical Thermodynamics,FST 165 1.0,FST,FST 165 1.0 Chemical Thermodynamics,1,S1,Lecture,Not Stated,16:00-17:00,Special,Food Science
+Food Science and Tech,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Food Microbiology,FST 187 2.0,FST,FST 187 2.0 Food Microbiology,1,NFC2,Lecture,Prof. R.A.U.J. Marapana,10:15-12:00,Special,Food Science
+Food Science and Tech,Wednesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Food Business Management II,FSC 112 1.0,FSC,FSC 112 1.0 Food Business Management II,1,NFC2,Lecture,Dr. Piumi Abeysundara,13:00-14:00,General,Biology
+Food Science and Tech,Wednesday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Business Economics,FST 159 1.0,FST,FST 159 1.0 Business Economics,1,NFC2,Lecture,VL,14:00-15:00,Special,Food Science
+Food Science and Tech,Thursday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Practicals,FST P,FST,FST P Practicals,1,P,Practicals,NA,08:55-16:00,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Post Harvest Management of Animal Commodities,FST 267 1.0,FST,FST 267 1.0 Post Harvest Management of Animal Commodities,2,NFC5,Lecture,Prof. I. Wickramasinghe,08:55-09:45,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Dietetics I,FST 268 1.0,FST,FST 268 1.0 Dietetics I,2,NFC5,Lecture,Dr. Madhura Jayasinghe,13:00-14:00,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T08:55:00Z,1970-01-01T15:00:00Z,Practicals,FST P,FST,FST P Practicals,2,P,Practicals,NA,08:55-15:00,Special,Food Science
+Food Science and Tech,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Statistics for Food Science I,FST 251 2.0,FST,FST 251 2.0 Statistics for Food Science I,2,NFC5,Lecture,Ms. Asha Mallikarachchi,08:00-09:45,Special,Food Science
+Food Science and Tech,Wednesday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Organic Spectros copy,FST 261 1.0,FST,FST 261 1.0 Organic Spectros copy,2,S1,Lecture,Dr. Upul Kumarasinghe,10:15-11:05,Special,Food Science
+Food Science and Tech,Wednesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Electrochemistry,FST 262 1.0,FST,FST 262 1.0 Electrochemistry,2,S1,Lecture,Dr. Tharindu Senapathi,11:10-12:00,Special,Food Science
+Food Science and Tech,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Unit Operation In Food Processing,FST 280 2.0,FST,FST 280 2.0 Unit Operation In Food Processing,2,NFC5,Lecture,VL,13:00-15:00,Special,Food Science
+Food Science and Tech,Thursday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Bakery Science,FST 292 1.0,FST,FST 292 1.0 Bakery Science,2,NFC5,Lecture,Dr. Suraji Senanayake,08:55-09:45,Special,Food Science
+Food Science and Tech,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Food Business Management II,FSC 211 1.0,FSC,FSC 211 1.0 Food Business Management II,2,NFC2,Lecture,Dr. Dulani Somendrika,10:15-11:05,General,Biology
+Food Science and Tech,Thursday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Post Harvest Management of Plant Commodities,FST 266 1.0,FST,FST 266 1.0 Post Harvest Management of Plant Commodities,2,NFC5,Lecture,Dr. Dulani Somendrika,11:10-12:00,Special,Food Science
+Food Science and Tech,Thursday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Post Harvest Management,FSC 252 1.0,FSC,FSC 252 1.0 Post Harvest Management,2,NFC5,Lecture,Dr. Dulani Somendrika,11:10-12:00,General,Biology
+Food Science and Tech,Thursday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Chemical Kinetics,FST 264 2.0,FST,FST 264 2.0 Chemical Kinetics,2,S1,Lecture,Dr. S Rajapaksha,14:00-15:00,Special,Food Science
+Food Science and Tech,Thursday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Food Packaging,FST 282 1.0,FST,FST 282 1.0 Food Packaging,2,NFC5,Lecture,Dr. Chathuni Jayathilaka,15:00-16:00,Special,Food Science
+Food Science and Tech,Friday,1970-01-01T08:55:00Z,1970-01-01T11:05:00Z,Food Chemistry,FST 290 2.0,FST,FST 290 2.0 Food Chemistry,2,NFC5,Lecture,Prof. Jagath Wansapala,08:55-11:05,Special,Food Science
+Food Science and Tech,Friday,1970-01-01T08:55:00Z,1970-01-01T11:05:00Z,Food Chemistry,FSC 231 2.0,FSC,FSC 231 2.0 Food Chemistry,2,NFC5,Lecture,Prof. Jagath Wansapala,08:55-11:05,General,Biology
+Food Science and Tech,Friday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,"Basic Management, Accounting and Finance",FST 298 1.0,FST,"FST 298 1.0 Basic Management, Accounting and Finance",2,NFC5,Lecture,VL,13:00-14:00,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Regression Analysis,FST 366 2.0,FST,FST 366 2.0 Regression Analysis,3,NFC2,Lecture,Ms. Asha Mallikarachchi,08:00-09:45,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Project Management,FST 367 1.0,FST,FST 367 1.0  Project Management,3,NFC2,Lecture,Prof. Jagath Jayasinghe,10:15-11:05,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Sustainability and Circular Economy,FST 359 1.0,FST,FST 359 1.0 Sustainability and Circular Economy,3,NFC2,Lecture,Dr. Dulani Somendrika,11:10-12:00,Special,Food Science
+Food Science and Tech,Monday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,"Spices, Root Crops",FST 386 1.0,FST,"FST 386 1.0 Spices, Root Crops",3,NFC5,Lecture,Dr. Dulani Somendrika,14:00-15:00,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Grain Technology,FST 383 1.0,FST,FST 383 1.0 Grain Technology,3,NFC5,Lecture,Dr. Suraji Senanayake,08:55-09:45,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Fish & Meat Process Technology,FST 374 1.0,FST,FST 374 1.0 Fish & Meat Process Technology,3,NFC5,Lecture,Prof. I. Wickramasinghe,10:15-11:05,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Fish & Meat Process Technology,FSC 371 1.0,FSC,FSC 371 1.0 Fish & Meat Process Technology,3,NFC5,Lecture,Prof. I. Wickramasinghe,10:15-11:05,General,Biology
+Food Science and Tech,Tuesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Dairy Process Technology,FST 399 1.0,FST,FST 399 1.0 Dairy Process Technology,3,NFC5,Lecture,Prof. R.A.U.J. Marapana,11:10-12:00,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Dairy Technology,FSC 372 1.0,FSC,FSC 372 1.0 Dairy Technology,3,NFC5,Lecture,Prof. R.A.U.J. Marapana,11:10-12:00,General,Biology
+Food Science and Tech,Tuesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Fat and Oil Technology,FST 387 1.0,FST,FST 387 1.0 Fat and Oil Technology,3,NFC2,Lecture,Dr. Piumi Abeysundara,13:00-14:00,Special,Food Science
+Food Science and Tech,Tuesday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Seminar,FSC 395 1.0,FSC,FSC 395 1.0 Seminar,3,NFC2,Lecture,Dr. Isuru Wijesekara,14:00-15:00,General,Biology
+Food Science and Tech,Wednesday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Practicals,FST P,FST,FST P Practicals,3,P,Practicals,NA,08:55-16:00,Special,Food Science
+Food Science and Tech,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Emerging Food Technology,FST 368 2.0,FST,FST 368 2.0 Emerging Food Technology,3,NFC2,Lecture,Senior Prof. K.K.D.S. Ranaweera,08:00-09:45,Special,Food Science
+Food Science and Tech,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Fruit & Vegetable Process & Technology,FST 384 1.0,FST,FST 384 1.0 Fruit & Vegetable Process & Technology,3,NFC5,Lecture,Prof. R.A.U.J. Marapana,10:15-11:05,Special,Food Science
+Food Science and Tech,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Fruit & Vegetable Process & Technology,FSC 373 1.0,FSC,FSC 373 1.0 Fruit & Vegetable Process & Technology,3,NFC5,Lecture,Prof. R.A.U.J. Marapana,10:15-11:05,General,Biology
+Food Science and Tech,Thursday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Social Mobilization,FST 380 2.0,FST,FST 380 2.0 Social Mobilization,3,NFC2,Lecture,Prof. Jagath Jayasinghe,11:10-12:00,Special,Food Science
+Food Science and Tech,Thursday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Food Biotechnology,FSC 362 1.0,FSC,FSC 362 1.0 Food Biotechnology,3,NFC5,Lecture,Senior Prof. K.K.D.S. Ranaweera,13:00-14:00,General,Food Science
+Food Science and Tech,Thursday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Food Packaging,FSC 353 1.0,FSC,FSC 353 1.0 Food Packaging,3,NFC5,Lecture,Dr. Chathuni Jayathilaka,15:00-16:00,General,Biology
+Food Science and Tech,Friday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Sensory Analysis,FST 362 1.0,FST,FST 362 1.0 Sensory Analysis,3,NFC5,Lecture,Dr. Chathuni Jayathilaka,11:10-12:00,Special,Food Science
+Food Science and Tech,Friday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Mechanical Aspects of Food Technology,FST 391 1.0,FST,FST 391 1.0 Mechanical Aspects of Food Technology,3,NFC5,Lecture,VL,15:00-16:00,Special,Food Science
+Food Science and Tech,Friday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Introduction to Multivariate Statistics,FST 452 1.0,FST,FST 452 1.0 Introduction to Multivariate Statistics,4,NFC2,Lecture,Ms. Asha Mallikarachchi,08:00-08:50,Special,Food Science
+Food Science and Tech,Friday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Nano Technology in Food System,FST 482 1.0,FST,FST 482 1.0 Nano Technology in Food System,4,NFC2,Lecture,VL,08:55-09:45,Special,Food Science
+Food Science and Tech,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Career Skills Development,FST 457 1.0,FST,FST 457 1.0 Career Skills Development,4,NFC2,Lecture,VL,10:15-12:00,Special,Food Science
+Food Science and Tech,Friday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Industrial Microbiology,FST 481 1.0,FST,FST 481 1.0 Industrial Microbiology,4,NFC2,Lecture,Dr. Piumi Abeysundara,13:00-14:00,Special,Food Science
+Food Science and Tech,Friday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Strategic Management,FST 458 1.0,FST,FST 458 1.0 Strategic Management,4,NFC2,Lecture,Prof. Jagath Jayasinghe,14:00-15:00,Special,Food Science
+Computer Science,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Software Engineering II,CSC 112 2.0,CSC,CSC 112 2.0 Software Engineering II,1,NFC3,Lecture,Dr. EATA Edirisuriya,08:00-09:45,General,Physical
+Computer Science,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Computer Programming - Laboratory,CSC 111 1.0,CSC,CSC 111 1.0 Computer Programming - Laboratory,1,NFC3,Lecture,Mr. AMRR Bandara / Ms. FS Sourjah,08:00-09:45,General,Physical
+Computer Science,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Object Oriented Programming,CSC 110 2.0,CSC,CSC 110 2.0  Object Oriented Programming,1,NFC3,Lecture,Dr. TMKK Jinasena,10:15-12:00,General,Physical
+Computer Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Practicals,CSC P,CSC,CSC P Practicals,1,P,Practicals,NA,13:00-15:00,General,Physical
+Computer Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Tutorial,CSC T,CSC,CSC T Tutorial,1,T,Tutorial,NA,08:00-08:50,General,Physical
+Computer Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Practicals,CSC P,CSC,CSC P Practicals,1,P,Practicals,NA,13:00-15:00,General,Physical
+Computer Science,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Practicals,CSC P,CSC,CSC P Practicals,1,P,Practicals,NA,10:15-12:00,General,Physical
+Computer Science,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Database Management Systems,CSC 209 2.0,CSC,CSC 209 2.0 Database Management Systems,2,NFC3,Lecture,Dr. S Tissera,10:15-12:00,General,Physical
+Computer Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Computer Graphics,CSC 210 1.0,CSC,CSC 210 1.0 Computer Graphics,2,NFC4,Lecture,Prof. RGN Meegama,08:00-09:45,General,Physical
+Computer Science,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Operating Systems,CSC 208 2.0,CSC,CSC 208 2.0  Operating Systems,2,NFC4,Lecture,Mr. MDR Perera,10:15-12:00,General,Physical
+Computer Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Practicals,CSC P,CSC,CSC P Practicals,2,P,Practicals,NA,10:15-12:00,General,Physical
+Computer Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Tutorial,CSC T,CSC,CSC T Tutorial,2,T,Tutorial,NA,13:00-15:00,General,Physical
+Computer Science,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Operations Research,CSC 355 2.0,CSC,CSC 355 2.0 Operations Research,3,Stat Lab,Lecture,Mr. DDA Gamini,08:00-09:45,Special,Physical
+Computer Science,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Net Centric Computing,CSC 315 1.5,CSC,CSC 315 1.5 Net Centric Computing,3,NFC4,Lecture,Prof. RGN Meegama,13:00-15:00,General,Physical
+Computer Science,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Net Centric Computing,CSC 315 1.5,CSC,CSC 315 1.5 Net Centric Computing,3,NFC4,Lecture,Prof. RGN Meegama,13:00-15:00,Special,Physical
+Computer Science,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Software Quality Assurance,CSC 365 2.0,CSC,CSC 365 2.0 Software Quality Assurance,3,PLT,Lecture,Dr. EATA Edirisuriya,08:00-09:45,General,Physical
+Computer Science,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Software Quality Assurance,CSC 365 2.0,CSC,CSC 365 2.0 Software Quality Assurance,3,PLT,Lecture,Dr. EATA Edirisuriya,08:00-09:45,Special,Physical
+Computer Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Swarm Intelligence,CSC 361 2.0,CSC,CSC 361 2.0 Swarm Intelligence,3,NFC4,Lecture,Ms. MKA Ariyaratne,13:00-15:00,General,Physical
+Computer Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Swarm Intelligence,CSC 361 2.0,CSC,CSC 361 2.0 Swarm Intelligence,3,NFC4,Lecture,Ms. MKA Ariyaratne,13:00-15:00,Special,Physical
+Computer Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Artificial Intelligence,CSC 316 2.0,CSC,CSC 316 2.0 Artificial Intelligence,3,NFC3,Lecture,Mr. DDA Gamini,08:00-09:45,General,Physical
+Computer Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Artificial Intelligence,CSC 316 2.0,CSC,CSC 316 2.0 Artificial Intelligence,3,NFC3,Lecture,Mr. DDA Gamini,08:00-09:45,Special,Physical
+Computer Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Human Computer Interaction,CSC 317 1.5,CSC,CSC 317 1.5 Human Computer Interaction,3,NFC3,Lecture,Dr. PRS De Silva,13:00-15:00,General,Physical
+Computer Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Human Computer Interaction,CSC 317 1.5,CSC,CSC 317 1.5 Human Computer Interaction,3,NFC3,Lecture,Dr. PRS De Silva,13:00-15:00,Special,Physical
+Computer Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Practicals,CSC P,CSC,CSC P Practicals,3,P,Practicals,NA,08:00-09:45,General,Physical
+Computer Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Theory of Programming Languages,CSC 377 2.0,CSC,CSC 377 2.0  Theory of Programming Languages,3,NFC3,Lecture,Ms. MKA Ariyaratne,08:00-09:45,Special,Physical
+Computer Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Machine Learning II,CSC 375 2.0,CSC,CSC 375 2.0  Machine Learning II,3,LCS2,Lecture,Prof. TGI Fernando,10:15-12:00,Special,Physical
+Computer Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Embedded Systems and Internet of Things,CSC 376 1.5,CSC,CSC 376 1.5 Embedded Systems and Internet of Things,3,LCS2,Lecture,Mr. MDR Perera,13:00-15:00,Special,Physical
+Botany,Monday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,MBL P,MBL,MBL P Practicals,1,P,Practicals,NA,08:55-12:00,General,Biology
+Botany,Monday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PBT P,PBT,PBT P Practicals,1,P,Practicals,NA,13:00-16:00,General,Biology
+Botany,Monday,1970-01-01T14:00:00Z,1970-01-01T16:00:00Z,Practicals,PBL P,PBL,PBL P Practicals,1,P,Practicals,NA,14:00-16:00,General,Biology
+Botany,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Classical Genetics,PBT/PBL/MBL 126 1.0,PBT/PBL/MBL,PBT/PBL/MBL 126 1.0 Classical Genetics,1,B1,Lecture,Prof. P.N.Dasanayake,10:15-12:00,General,Biology
+Botany,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Principles of Ecology,PBT/PBL/MBL 123 1.0,PBT/PBL/MBL,PBT/PBL/MBL 123 1.0 Principles of Ecology,1,B1,Lecture,Dr. M.L.A.M.S. Munasinghe,10:15-12:00,General,Biology
+Botany,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Plant Development & Propagation,PBT/PBL/MBL 124 1.0,PBT/PBL/MBL,PBT/PBL/MBL 124 1.0 Plant Development & Propagation,1,B1,Lecture,Prof. W.T.P.S.K.Senarath,13:00-15:00,General,Biology
+Botany,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Plant Structure & Function,PBT/PBL/MBL 125 1.0,PBT/PBL/MBL,PBT/PBL/MBL 125 1.0 Plant Structure & Function,1,B1,Lecture,Prof. W.T.P.S.K.Senarath,13:00-15:00,General,Biology
+Botany,Wednesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Tutorial,PBT T,PBT,PBT T Tutorial,1,T,Tutorial,NA,15:00-16:00,General,Biology
+Botany,Wednesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Tutorial,PBL T,PBL,PBL T Tutorial,1,T,Tutorial,NA,15:00-16:00,General,Biology
+Botany,Wednesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Tutorial,MBL T,MBL,MBL T Tutorial,1,T,Tutorial,NA,15:00-16:00,General,Biology
+Botany,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Tutorial,PBT T,PBT,PBT T Tutorial,2,T,Tutorial,NA,08:00-08:50,General,Biology
+Botany,Tuesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,MBL P,MBL,MBL P Practicals,2,P,Practicals,NA,08:55-12:00,General,Biology
+Botany,Tuesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PBT P,PBT,PBT P Practicals,2,P,Practicals,NA,13:00-16:00,General,Biology
+Botany,Tuesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PBL P,PBL,PBL P Practicals,2,P,Practicals,NA,13:00-16:00,General,Biology
+Botany,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Microbial Genetics,MBL 223 1.0,MBL,MBL 223 1.0  Microbial Genetics,2,S1,Lecture,Mrs. C.B.Wijerathna,13:00-15:00,General,Biology
+Botany,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Molecular Genetics,"
+PBT 223 2.0",PBT,"
+PBT 223 2.0  Molecular Genetics",2,F1,Lecture,Dr. I. U. Kariyawasam,13:00-15:00,General,Biology
+Botany,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Plant Physiology,"
+PBL 224 1.0 
+",PBL,"
+PBL 224 1.0 
+ Plant Physiology",2,SLH - Botany,Lecture,Dr. R.Wimalasekara,13:00-15:00,General,Biology
+Botany,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Fundamentals of Recombinant DNA Technology,PBL 225 1.0,PBL,PBL 225 1.0  Fundamentals of Recombinant DNA Technology,2,SLH - Botany,Lecture,Prof. P.N.Dasanayake,13:00-15:00,General,Biology
+Botany,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Phytopathogenic Microorganisms – 1,"MBL 228 1.0
+",MBL,"MBL 228 1.0
+ Phytopathogenic Microorganisms – 1",2,B1,Lecture,Ms. H.T.Mandakini,10:15-12:00,General,Biology
+Botany,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Gene Technology,PBT 224 2.0,PBT,PBT 224 2.0 Gene Technology,2,B2,Lecture,Prof. P.N.Dasanayake,10:15-12:00,General,Biology
+Botany,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Genetics,PBL 223 2.0,PBL,PBL 223 2.0  Genetics,2,SLH - Botany,Lecture,Dr. I. U. Kariyawasam,10:15-12:00,General,Biology
+Botany,Friday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Tutorial,PBL T,PBL,PBL T Tutorial,2,T,Tutorial,NA,08:55-09:45,General,Biology
+Botany,Friday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Tutorial,MBL T,MBL,MBL T Tutorial,2,T,Tutorial,NA,08:55-09:45,General,Biology
+Botany,Friday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Tutorial,PBT T,PBT,PBT T Tutorial,2,T,Tutorial,NA,13:00-14:00,General,Biology
+Botany,Friday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Tutorial,PBL T,PBL,PBL T Tutorial,2,T,Tutorial,NA,13:00-14:00,General,Biology
+Botany,Friday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Tutorial,MBL T,MBL,MBL T Tutorial,2,T,Tutorial,NA,13:00-14:00,General,Biology
+Botany,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Industrial Biotechnology,PBT 325 2.0,PBT,PBT 325 2.0 Industrial Biotechnology,3,A1,Lecture,Dr. Kasun Thambugala,08:00-09:45,General,Biology
+Botany,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Economic Botany,PBL 321 1.0,PBL,PBL 321 1.0  Economic Botany,3,B2,Lecture,Mrs. C.B.Wijerathna,08:00-08:50,General,Biology
+Botany,Monday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Plant Resources,PBL 325 1.0,PBL,PBL 325 1.0  Plant Resources,3,B2,Lecture,Mrs. C.B.Wijerathna,08:55-09:45,General,Biology
+Botany,Monday,1970-01-01T14:00:00Z,1970-01-01T16:00:00Z,Industrial Management,MBL 326 1.0,MBL,MBL 326 1.0  Industrial Management,3,B1,Lecture,Mrs. M.W.Kalyani,14:00-16:00,General,Biology
+Botany,Monday,1970-01-01T14:00:00Z,1970-01-01T16:00:00Z,Food & Dairy Microbiology,MBL 323 1.0,MBL,MBL 323 1.0  Food & Dairy Microbiology,3,B1,Lecture,Ms. H.T.Mandakini,14:00-16:00,General,Biology
+Botany,Tuesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Medical Biotechnology,PBT 324.1.0,PBT,PBT 324.1.0 Medical Biotechnology,3,B1,Lecture,Mrs. W.A.S.Wijendra,15:00-16:00,General,Biology
+Botany,Tuesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Applied Microbiology,PBL 326 1.0,PBL,PBL 326 1.0 Applied Microbiology,3,B3,Lecture,Ms. H.T.Mandakini,15:00-16:00,General,Biology
+Botany,Tuesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Bioinformatics & Molecular Modeling,PBT 327 1.0,PBT,PBT 327 1.0 Bioinformatics & Molecular Modeling,3,B1,Lecture,Dr. I. U. Kariyawasam,16:00-17:00,General,Biology
+Botany,Wednesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Tutorial,PBL T,PBL,PBL T Tutorial,3,T,Tutorial,NA,16:00-17:00,General,Biology
+Botany,Thursday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Medical Microbiology,MBL 324 1.0,MBL,MBL 324 1.0 Medical Microbiology,3,B1,Lecture,Dr. Janani Kottahachchi,13:00-14:00,General,Biology
+Botany,Thursday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Bioinformatics & Molecular Modeling,MBL 327 1.0,MBL,MBL 327 1.0 Bioinformatics & Molecular Modeling,3,B1,Lecture,Dr. I. U. Kariyawasam,14:00-15:00,General,Biology
+Botany,Friday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Tutorial,PBT T,PBT,PBT T Tutorial,3,T,Tutorial,NA,08:00-08:50,General,Biology
+Botany,Friday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Tutorial,MBL T,MBL,MBL T Tutorial,3,T,Tutorial,NA,08:00-08:50,General,Biology
+Botany,Saturday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PBL P,PBL,PBL P Practicals,3,P,Practicals,NA,13:00-16:00,General,Biology
+Botany,Sunday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PBL P,PBL,PBL P Practicals,3,P,Practicals,NA,13:00-16:00,General,Biology
+Botany,Monday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,MBL P,MBL,MBL P Practicals,3,P,Practicals,NA,08:55-12:00,General,Biology
+Botany,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Plant Synthetic Biology,PBT 393 1.0,PBT,PBT 393 1.0  Plant Synthetic Biology,3,B2,Lecture,Dr. R.Wimalasekara,10:15-11:05,Special,Biology
+Botany,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Microbial Biochemistry,MBL 383 1.0,MBL,MBL 383 1.0 Microbial Biochemistry,3,B2,Lecture,Dr. R.Wimalasekara,11:10-12:00,Special,Biology
+Botany,Monday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Advanced Microbial Genetics,PBT 386 1.0,PBT,PBT 386 1.0 Advanced Microbial Genetics,3,B2,Lecture,Dr. Anusha Ekanayaka,16:00-17:00,Special,Biology
+Botany,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Microbes in Pest Management,MBL 382 2.0,MBL,MBL 382 2.0 Microbes in Pest Management,3,B3,Lecture,Dr. Wathsala Udari,13:00-15:00,Special,Biology
+Botany,Tuesday,1970-01-01T17:00:00Z,1970-01-01T17:45:00Z,Advanced Genetics,PBL 386 1.0,PBL,PBL 386 1.0 Advanced Genetics,3,B3,Lecture,Dr. I. U. Kariyawasam,17:00-17:45,Special,Biology
+Botany,Wednesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Applications in Nanobiology,PBT 394 1.0,PBT,PBT 394 1.0 Applications in Nanobiology,3,B3,Lecture,Mrs. C.B.Wijerathna,08:00-08:50,Special,Biology
+Botany,Wednesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Applications in Nanobiology,MBL 394 1.0,MBL,MBL 394 1.0 Applications in Nanobiology,3,B3,Lecture,Mrs. C.B.Wijerathna,08:00-08:50,Special,Biology
+Botany,Wednesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Marine Biotechnology,PBT 389 1.0,PBT,PBT 389 1.0 Marine Biotechnology,3,B3,Lecture,Dr. I. U. Kariyawasam,08:55-09:45,Special,Biology
+Botany,Wednesday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Biostatistics and Computer Applications,PBL 387 2.0,PBL,PBL 387 2.0 Biostatistics and Computer Applications,3,NFC4,Lecture,Dr. C. Wickramarachchi,15:00-17:00,Special,Biology
+Botany,Wednesday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Biostatistics and Computer Applications,PBT 387 2.0,PBT,PBT 387 2.0 Biostatistics and Computer Applications,3,NFC4,Lecture,Dr. C. Wickramarachchi,15:00-17:00,Special,Biology
+Botany,Wednesday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Biostatistics and Computer Applications,MBL 387 2.0,MBL,MBL 387 2.0 Biostatistics and Computer Applications,3,NFC4,Lecture,Dr. C. Wickramarachchi,15:00-17:00,Special,Biology
+Botany,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Advanced Phytotaxonomy,PBL 390 2.0,PBL,PBL 390 2.0  Advanced Phytotaxonomy,3,B3,Lecture,Dr. I. U. Kariyawasam,08:00-09:45,Special,Biology
+Botany,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Advanced Phytotaxonomy,PBT 390 2.0,PBT,PBT 390 2.0  Advanced Phytotaxonomy,3,B3,Lecture,Dr. I. U. Kariyawasam,08:00-09:45,Special,Biology
+Botany,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Fundamentals of GIS,PBL 384 1.0,PBL,PBL 384 1.0 Fundamentals of GIS,3,F3,Lecture,Dr. Daham Jayawardana,10:15-12:00,Special,Biology
+Botany,Friday,1970-01-01T13:00:00Z,1970-01-01T17:00:00Z,Practicals,PBT P,PBT,PBT P Practicals,3,P,Practicals,NA,13:00-17:00,Special,Biology
+Botany,Friday,1970-01-01T13:00:00Z,1970-01-01T17:00:00Z,Practicals,PBL P,PBL,PBL P Practicals,3,P,Practicals,NA,13:00-17:00,Special,Biology
+Botany,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,MBL P,MBL,MBL P Practicals,3,P,Practicals,NA,08:55-12:00,Special,Biology
+Botany,Friday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Advanced Mycology,MBL 393 1.0,MBL,MBL 393 1.0  Advanced Mycology,3,B2,Lecture,Dr. Dimuthu Manamgoda,13:00-15:00,Special,Biology
+Botany,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Microbial Enzymes in Biotechnology,MBL 485 1.0,MBL,MBL 485 1.0 Microbial Enzymes in Biotechnology,4,SLH - Botany,Lecture,Dr. R.Wimalasekara,08:00-09:45,Special,Biology
+Botany,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Introduction to Palynology,PBT 484 2.0,PBT,PBT 484 2.0  Introduction to Palynology,4,B3,Lecture,Dr. R.Wimalasekara,10:15-12:00,Special,Biology
+Botany,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Advanced Applied Microbiology,PBL 492 2.0,PBL,PBL 492 2.0 Advanced Applied Microbiology,4,SLH - Botany,Lecture,Dr. Anusha Ekanayaka,13:00-15:00,Special,Biology
+Botany,Monday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Viral Genetics,PBT 495 1.0,PBT,PBT 495 1.0  Viral Genetics,4,B2,Lecture,Dr. Anusha Ekanayaka,15:00-16:00,Special,Biology
+Botany,Monday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Laboratory Management for Microbiologist,MBL 497 1.0,MBL,MBL 497 1.0 Laboratory Management for Microbiologist,4,B3,Lecture,Mrs. C.B.Wijerathna,16:00-17:00,Special,Biology
+Botany,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Molecular Diagnosis of Plant Diseases,PBT 499 2.0,PBT,PBT 499 2.0 Molecular Diagnosis of Plant Diseases,4,B3,Lecture,Dr. Dimuthu Manamgoda,08:00-09:45,Special,Biology
+Botany,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Molecular Diagnosis of Plant Diseases,MBL 499 2.0,MBL,MBL 499 2.0 Molecular Diagnosis of Plant Diseases,4,B3,Lecture,Dr. Dimuthu Manamgoda,08:00-09:45,Special,Biology
+Botany,Tuesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Cell Signaling,PBT 486 1.0,PBT,PBT 486 1.0 Cell Signaling,4,B3,Lecture,Dr. R.Wimalasekara,08:00-08:50,Special,Biology
+Botany,Tuesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Plant Developmental Genetics,PBT 490 1.0,PBT,PBT 490 1.0 Plant Developmental Genetics,4,B3,Lecture,Dr. R.Wimalasekara,08:55-09:45,Special,Biology
+Botany,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Environmental Microbiology,MBL 493 2.0,MBL,MBL 493 2.0 Environmental Microbiology,4,B2,Lecture,Dr. Anusha Ekanayaka,10:15-12:00,Special,Biology
+Botany,Saturday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Plant Quarantine,MBL 496 2.0,MBL,MBL 496 2.0  Plant Quarantine,4,B2,Lecture,Ms. Champika Hewage,08:55-12:00,Special,Biology
+Botany,Saturday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Plant Quarantine,PBT 496 2.0,PBT,PBT 496 2.0  Plant Quarantine,4,B2,Lecture,Ms. Champika Hewage,08:55-12:00,Special,Biology
+Botany,Saturday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Crop Protection,PBL 480 2.0,PBL,PBL 480 2.0 Crop Protection,4,B2,Lecture,Dr. Wathsala Udari,13:00-15:00,Special,Biology
+Botany,Sunday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Advanced Plant Pathology,MBL 483 2.0,MBL,MBL 483 2.0 Advanced Plant Pathology,4,B2,Lecture,Prof. Renuka Aththanayake,08:55-16:00,Special,Biology
+Botany,Sunday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Advanced Plant Pathology,PBL 482 2.0,PBL,PBL 482 2.0 Advanced Plant Pathology,4,B2,Lecture,Prof. Renuka Aththanayake,08:55-16:00,Special,Biology
+Chemistry,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Organic Chemistry II,"CHE 109 
+1.0",CHE,"CHE 109 
+1.0 Organic Chemistry II",1,C1,Lecture,Prof. C Padumadasa,08:00-08:50,General,Physical/Biology
+Chemistry,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Introduction to Analytical Chemistry,"CHE 111 
+2.0",CHE,"CHE 111 
+2.0  Introduction to Analytical Chemistry",1,C1,Lecture,Prof. C D Jayaweera,08:00-09:45,General,Physical/Biology
+Chemistry,Tuesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Chemical Thermodynamics,"CHE 103 
+1.0",CHE,"CHE 103 
+1.0  Chemical Thermodynamics",1,C1,Lecture,Dr. Tharindu Senapathi,16:00-17:00,General,Physical/Biology
+Chemistry,Tuesday,1970-01-01T17:00:00Z,1970-01-01T17:45:00Z,Tutorial,CHE T,CHE,CHE T Tutorial,1,T,Tutorial,NA,17:00-17:45,General,Physical/Biology
+Chemistry,Friday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Practicals,CHE P,CHE,CHE P Practicals,1,P,Practicals,NA,08:55-16:00,General,Physical/Biology
+Chemistry,Monday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Practicals,CHE P,CHE,CHE P Practicals,2,P,Practicals,NA,08:55-16:00,General,Physical/Biology
+Chemistry,Wednesday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Organic Spectroscopy,"CHE 203 
+1.0",CHE,"CHE 203 
+1.0 Organic Spectroscopy",2,C1,Lecture,Prof. Asiri Perera,10:15-11:05,General,Physical/Biology
+Chemistry,Wednesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Electrochemistry,"CHE 204 
+1.0",CHE,"CHE 204 
+1.0 Electrochemistry",2,C1,Lecture,Dr. L Palliyaguru,11:10-12:00,General,Physical/Biology
+Chemistry,Thursday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Chemistry of Coordination Compounds,"CHE 202 
+1.0",CHE,"CHE 202 
+1.0  Chemistry of Coordination Compounds",2,C1,Lecture,Dr. Isuri Weerarathne,13:00-14:00,General,Physical/Biology
+Chemistry,Thursday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Chemical Kinetics,"CHE 206 
+1.0",CHE,"CHE 206 
+1.0 Chemical Kinetics",2,C1,Lecture,Dr. Imalka Munaweera,14:00-15:00,General,Physical/Biology
+Chemistry,Friday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Tutorial,CHE T,CHE,CHE T Tutorial,2,T,Tutorial,NA,16:00-17:00,General,Physical/Biology
+Chemistry,Monday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Quality Control and Assurance,"CHE 333 
+1.0",CHE,"CHE 333 
+1.0 Quality Control and Assurance",3,C1,Lecture,Dr. Upul Kumarasinghe,16:00-17:00,General,Physical/Biology
+Chemistry,Tuesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Industrial Organic Chemistry,"CHE 345 
+1.0",CHE,"CHE 345 
+1.0  Industrial Organic Chemistry",3,S1,Lecture,Dr. Upul Kumarasinghe,08:00-08:50,General,Physical/Biology
+Chemistry,Tuesday,1970-01-01T17:00:00Z,1970-01-01T17:45:00Z,Basic Chemical Engineering,"CHE 312 
+1.0",CHE,"CHE 312 
+1.0 Basic Chemical Engineering",3,C1,Lecture,VL,17:00-17:45,General,Physical/Biology
+Chemistry,Wednesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Introduction to Molecular Modeling and Designing,"CHE 340 
+1.0",CHE,"CHE 340 
+1.0  Introduction to Molecular Modeling and Designing",3,C1,Lecture,Dr. R Jayakody,08:00-08:50,General,Physical/Biology
+Chemistry,Wednesday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Practicals,CHE P,CHE,CHE P Practicals,3,P,Practicals,NA,08:55-16:00,General,Physical/Biology
+Chemistry,Thursday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Structure and Function of Biomolecules,"CHE 330 
+1.0",CHE,"CHE 330 
+1.0 Structure and Function of Biomolecules",3,C1,Lecture,Prof. P Godakumbura,08:00-08:50,General,Physical/Biology
+Chemistry,Thursday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Industrial Utilization of Plant Materials,"CHE 302 
+1.0",CHE,"CHE 302 
+1.0 Industrial Utilization of Plant Materials",3,C1,Lecture,Prof. P Godakumbura,08:55-09:45,General,Physical/Biology
+Chemistry,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Organic Synthesis and Industrial Applications,ICH 363 2.0,ICH,ICH 363 2.0 Organic Synthesis and Industrial Applications,3,C3,Lecture,Dr. Upul Kumarasinghe,08:00-09:45,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Spectroscopic Techniques for Identification of Organic Compounds,ICH 365 1.0,ICH,ICH 365 1.0 Spectroscopic Techniques for Identification of Organic Compounds,3,C3,Lecture,Prof. C Padumadasa,10:15-11:05,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Chemical Kinetics and Thermodynamics,ICH 373 2.0,ICH,ICH 373 2.0 Chemical Kinetics and Thermodynamics,3,C3,Lecture,Dr. L Palliyaguru / Dr. Tharindu Senapathi,13:00-14:00,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Food Chemistry and Technology,ICH 369 2.0,ICH,ICH 369 2.0 Food Chemistry and Technology,3,C3,Lecture,Prof. P Godakumbura,15:00-17:00,Special,Physical/Biology
+Chemistry,Tuesday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Practicals,ICH P,ICH,ICH P Practicals,3,P,Practicals,NA,08:55-16:00,Special,Physical/Biology
+Chemistry,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Molecular Modelling and Computational Chemistry,ICH 370 2.0,ICH,ICH 370 2.0 Molecular Modelling and Computational Chemistry,3,C3,Lecture,Dr. R Jayakody,08:00-09:45,Special,Physical/Biology
+Chemistry,Thursday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Spectroscopic Techniques for Identification of Inorganic Complexes,ICH 364 1.0,ICH,ICH 364 1.0 Spectroscopic Techniques for Identification of Inorganic Complexes,3,C3,Lecture,Prof. NT Perera,08:55-09:45,Special,Physical/Biology
+Chemistry,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Microscopic and Scattering Techniques,ICH 367 2.0,ICH,ICH 367 2.0 Microscopic and Scattering Techniques,3,C4,Lecture,Dr. L Palliyaguru / Dr. S Rajapaksha,10:15-12:00,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Alternative Energy Sources and Energy Storage Devices,ICH 457 1.0,ICH,ICH 457 1.0 Alternative Energy Sources and Energy Storage Devices,4,SCR,Lecture,Dr. Isuri Weerarathne,08:00-08:50,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Petroleum Chemistry and Petrochemical Industry,ICH 476 2.0,ICH,ICH 476 2.0 Petroleum Chemistry and Petrochemical Industry,4,SCR,Lecture,VL,10:15-12:00,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,"Quality Assurance, Accreditation and Project Management",ICH 484 2.0,ICH,"ICH 484 2.0 Quality Assurance, Accreditation and Project Management",4,SCR,Lecture,VL,13:00-15:00,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Advanced Organic Spectroscopy,CHE 358 1.0,CHE,CHE 358 1.0 Advanced Organic Spectroscopy,3,C3,Lecture,Prof. C Padumadasa,10:15-11:05,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Advanced Coordination Chemistry,CHE 367 1.0,CHE,CHE 367 1.0 Advanced Coordination Chemistry,3,C3,Lecture,Dr. M Kartunaratne,11:10-12:00,Special,Physical/Biology
+Chemistry,Tuesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Advanced Quantum Chemistry,CHE 362 1.0,CHE,CHE 362 1.0 Advanced Quantum Chemistry,3,C3,Lecture,Dr. R Jayakody,08:00-08:50,Special,Physical/Biology
+Chemistry,Tuesday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Practicals,CHE P,CHE,CHE P Practicals,3,P,Practicals,NA,08:55-16:00,Special,Physical/Biology
+Chemistry,Wednesday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Natural Product Chemistry,CHE 384 1.0,CHE,CHE 384 1.0 Natural Product Chemistry,3,C4,Lecture,Dr. I Fernando,10:15-11:05,Special,Physical/Biology
+Chemistry,Wednesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Inorganic Reaction Mechanisms,CHE 354 1.0,CHE,CHE 354 1.0 Inorganic Reaction Mechanisms,3,C4,Lecture,Dr. Imalka Munaweera,11:10-12:00,Special,Physical/Biology
+Chemistry,Thursday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Structural Chemistry,CHE 353 1.0,CHE,CHE 353 1.0 Structural Chemistry,3,C3,Lecture,Dr. M Kartunaratne,08:00-08:50,Special,Physical/Biology
+Chemistry,Thursday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Spectroscopic Methods in Inorganic Chemistry,CHE 352 1.0,CHE,CHE 352 1.0 Spectroscopic Methods in Inorganic Chemistry,3,C3,Lecture,Prof. NT Perera,08:55-09:45,Special,Physical/Biology
+Chemistry,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Asymmetric Organic Synthesis,CHE 385 1.0,CHE,CHE 385 1.0 Asymmetric Organic Synthesis,3,C3,Lecture,Dr. Upul Kumarasinghe,10:15-11:05,Special,Physical/Biology
+Chemistry,Thursday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Biochemistry,CHE 371 1.0,CHE,CHE 371 1.0 Biochemistry,3,C3,Lecture,Prof. P Godakumbura,11:10-12:00,Special,Physical/Biology
+Chemistry,Thursday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Advanced Chemical Kinetics,CHE 361 1.0,CHE,CHE 361 1.0 Advanced Chemical Kinetics,3,C3,Lecture,Dr. Tharindu Senapathi,13:00-14:00,Special,Physical/Biology
+Chemistry,Friday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Molecular Photochemistry,CHE 369 1.0,CHE,CHE 369 1.0 Molecular Photochemistry,3,C3,Lecture,Dr. S Rajapaksha,10:15-11:05,Special,Physical/Biology
+Chemistry,Friday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Diffraction Methods in Chemistry,CHE 365 1.0,CHE,CHE 365 1.0 Diffraction Methods in Chemistry,3,C3,Lecture,Prof. N Kottegoda,11:10-12:00,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Solid State Chemistry,CHE 476 1.0,CHE,CHE 476 1.0 Solid State Chemistry,4,C4,Lecture,Prof. N Kottegoda,10:15-11:05,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Polymer Chemistry,CHE 456 1.0,CHE,CHE 456 1.0 Polymer Chemistry,4,C4,Lecture,Prof. Thilini Gunasekara,11:10-12:00,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,New Trends in Organic Synthesis,CHE 401 1.0,CHE,CHE 401 1.0 New Trends in Organic Synthesis,4,C4,Lecture,Dr. Laksiri Weerasinghe,13:00-14:00,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Advanced Surface Chemistry,CHE 458 1.0,CHE,CHE 458 1.0 Advanced Surface Chemistry,4,C4,Lecture,Dr. L Palliyaguru,14:00-15:00,Special,Physical/Biology
+Chemistry,Monday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Quality Control and Assurance,CHE 485 1.0,CHE,CHE 485 1.0 Quality Control and Assurance,4,C1,Lecture,Dr. Ushantha Jayalath,16:00-17:00,Special,Physical/Biology
+Chemistry,Tuesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Polymer Technology,CHE 464 1.0,CHE,CHE 464 1.0 Polymer Technology,4,C4,Lecture,Dr. Chandima Narangoda,08:00-08:50,Special,Physical/Biology
+Chemistry,Tuesday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Chemistry of Plant products and their Applications in Industry,CHE 466 1.0,CHE,CHE 466 1.0 Chemistry of Plant products and their Applications in Industry,4,C4,Lecture,Prof. P Godakumbura,10:15-11:05,Special,Physical/Biology
+Chemistry,Tuesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Basic Chemical Engineering,CHE 461 1.0,CHE,CHE 461 1.0 Basic Chemical Engineering,4,C4,Lecture,VL,11:10-12:00,Special,Physical/Biology
+Chemistry,Tuesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Medicinal Chemistry,CHE 454 1.0,CHE,CHE 454 1.0 Medicinal Chemistry,4,C4,Lecture,Dr. Upul Kumarasinghe,13:00-14:00,Special,Physical/Biology
+Chemistry,Wednesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Supramolecular Chemistry,CHE 491 1.0,CHE,CHE 491 1.0 Supramolecular Chemistry,4,C4,Lecture,Dr. I Fernando,08:55-09:45,Special,Physical/Biology
+Chemistry,Wednesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Atmospheric Chemistry,CHE 498 1.0,CHE,CHE 498 1.0 Atmospheric Chemistry,4,C4,Lecture,Prof. C D Jayaweera,11:10-12:00,Special,Physical/Biology
+Chemistry,Wednesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Molecular Spectroscopy,CHE 457 1.0,CHE,CHE 457 1.0 Molecular Spectroscopy,4,C4,Lecture,Prof. N Kottegoda,13:00-14:00,Special,Physical/Biology
+Polymer Science,Monday,1970-01-01T08:55:00Z,1970-01-01T11:05:00Z,Polymeric Materials,PSC 104 3.0,PSC,PSC 104 3.0 Polymeric Materials,1,C2,Lecture,Prof. Laleen Karunanayake / Dr. Dammika Weerathunga,08:55-11:05,General,Physical/Biology
+Polymer Science,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Tutorial,PSC T,PSC,PSC T Tutorial,2,T,Tutorial,NA,08:00-09:45,General,Physical/Biology
+Polymer Science,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Polymer Blends and Composite,PST 301 1.0,PST,PST 301 1.0 Polymer Blends and Composite,3,C2,Lecture,Dr. Thusitha Etampawala,10:15-11:05,General,Physical/Biology
+Polymer Science,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Introduction to Engineering Materials,PST 313 1.0,PST,PST 313 1.0 Introduction to Engineering Materials,3,C2,Lecture,Dr. Sulashi Samarasinghe,11:10-12:00,General,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Polymeric Materials,PSC 104 3.0,PSC,PSC 104 3.0 Polymeric Materials,1,C1,Lecture,Prof. Laleen Karunanayake / Dr. Dammika Weerathunga,13:00-14:00,General,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Tutorial,PSC T,PSC,PSC T Tutorial,1,T,Tutorial,NA,14:00-15:00,General,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Polymer Kinetics,PSC 205 1.0,PSC,PSC 205 1.0 Polymer Kinetics,2,C2,Lecture,Dr. Madhubhashini Maddumaarachchi,08:55-09:45,General,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Polymer Characterization,PSC 202 2.0,PSC,PSC 202 2.0 Polymer Characterization,2,C2,Lecture,Prof. Thilini Gunasekara,13:00-15:00,General,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Tutorial,PSC T,PSC,PSC T Tutorial,2,T,Tutorial,NA,15:00-16:00,General,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,PST P,PST,PST P Practicals,3,P,Practicals,NA,08:55-12:00,General,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Polymers in Textile Industry,PSC 318 2.0,PSC,PSC 318 2.0 Polymers in Textile Industry,3,C3,Lecture,Dr. Sulashi Samarasinghe,13:00-15:00,General,Physical/Biology
+Polymer Science,Wednesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Tutorial,PST T,PST,PST T Tutorial,1,T,Tutorial,NA,08:55-09:45,General,Physical/Biology
+Polymer Science,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Polymer Degradation,PST 103 2.0,PST,PST 103 2.0 Polymer Degradation,1,C2,Lecture,Prof. Thilini Gunasekara,10:15-12:00,General,Physical/Biology
+Polymer Science,Wednesday,1970-01-01T17:00:00Z,1970-01-01T17:45:00Z,Tutorial,PST T,PST,PST T Tutorial,1,T,Tutorial,NA,17:00-17:45,General,Physical/Biology
+Polymer Science,Wednesday,1970-01-01T17:00:00Z,1970-01-01T17:45:00Z,Tutorial,PST T,PST,PST T Tutorial,2,T,Tutorial,NA,17:00-17:45,General,Physical/Biology
+Polymer Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Tutorial,PSC T,PSC,PSC T Tutorial,1,T,Tutorial,NA,10:15-11:05,General,Physical/Biology
+Polymer Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Tutorial,PSC T,PSC,PSC T Tutorial,1,T,Tutorial,NA,13:00-15:00,General,Physical/Biology
+Polymer Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Polymer Processing and Product Testing,PSC 206 2.0,PSC,PSC 206 2.0 Polymer Processing and Product Testing,2,C2,Lecture,Prof. Shantha Walpalage / Dr. Dammika Weerathunga,08:00-09:45,General,Physical/Biology
+Polymer Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Introduction to Waste Water Treatment processes in Polymer Industry,PST 314 2.0,PST,PST 314 2.0 Introduction to Waste Water Treatment processes in Polymer Industry,3,C2,Lecture,Dr. Dammika Weerathunga,10:15-12:00,General,Physical/Biology
+Polymer Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Environment and Polymer Industry,PST 315 1.0,PST,PST 315 1.0 Environment and Polymer Industry,3,NFC6,Lecture,Prof. S.D.M. Chinthaka,13:00-14:00,General,Physical/Biology
+Polymer Science,Thursday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Tutorial,PST T,PST,PST T Tutorial,3,T,Tutorial,NA,14:00-15:00,General,Physical/Biology
+Polymer Science,Friday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Tutorial,PST T,PST,PST T Tutorial,1,T,Tutorial,NA,08:00-08:50,General,Physical/Biology
+Polymer Science,Friday,1970-01-01T08:55:00Z,1970-01-01T16:00:00Z,Practicals,PST P,PST,PST P Practicals,2,P,Practicals,NA,08:55-16:00,General,Physical/Biology
+Polymer Science,Monday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,PCH P,PCH,PCH P Practicals,3,P,Practicals,NA,08:55-12:00,Special,Physical/Biology
+Polymer Science,Monday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PCH P,PCH,PCH P Practicals,3,P,Practicals,NA,13:00-16:00,Special,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T08:55:00Z,1970-01-01T11:05:00Z,Polymer Industry and Its Environment Impact,PCH 364 2.0,PCH,PCH 364 2.0 Polymer Industry and Its Environment Impact,3,NFC6,Lecture,Prof. S.D.M. Chinthaka,08:55-11:05,Special,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Advanced Concepts in Thermodynamics and Statistical Thermodynamics,PCH 371 2.0,PCH,PCH 371 2.0 Advanced Concepts in Thermodynamics and Statistical Thermodynamics,3,NFC6,Lecture,Dr. Thusitha Etampawala,11:10-12:00,Special,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Polymers in Textile Industry,PCH 369 2.0,PCH,PCH 369 2.0 Polymers in Textile Industry,3,C3,Lecture,Dr. Sulashi Samarasinghe,13:00-15:00,Special,Physical/Biology
+Polymer Science,Tuesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Organic Synthesis,PCH 370 2.0,PCH,PCH 370 2.0 Organic Synthesis,3,C2,Lecture,Dr. Sampath Gunathilaka,15:00-16:00,Special,Physical/Biology
+Polymer Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Molecular Modeling and Computational Chemistry,PCH 365 1.0,PCH,PCH 365 1.0 Molecular Modeling and Computational Chemistry,3,Online,Lecture,Dr. Ranga Jayakody,08:00-08:50,Special,Physical/Biology
+Polymer Science,Wednesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,PCH P,PCH,PCH P Practicals,3,P,Practicals,NA,08:55-12:00,Special,Physical/Biology
+Polymer Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PCH P,PCH,PCH P Practicals,3,P,Practicals,NA,13:00-16:00,Special,Physical/Biology
+Polymer Science,Wednesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Organic Synthesis,PCH 370 2.0,PCH,PCH 370 2.0 Organic Synthesis,3,C2,Lecture,Dr. Sampath Gunathilaka,16:00-17:00,Special,Physical/Biology
+Polymer Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Advanced Concepts in Thermodynamics and Statistical Thermodynamics,PCH 371 2.0,PCH,PCH 371 2.0 Advanced Concepts in Thermodynamics and Statistical Thermodynamics,3,NFC6,Lecture,Dr. Thusitha Etampawala,08:00-08:50,Special,Physical/Biology
+Polymer Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Advanced Organic and Inorganic Spectroscopy,PCH 360 2.0,PCH,PCH 360 2.0 Advanced Organic and Inorganic Spectroscopy,3,NFC6,Lecture,Dr. Narangoda,10:15-12:00,Special,Physical/Biology
+Polymer Science,Thursday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Degradable Polymer Technology,PCH 356 1.0,PCH,PCH 356 1.0 Degradable Polymer Technology,3,C2,Lecture,Prof. Thilini Gunasekara,14:00-15:00,Special,Physical/Biology
+Polymer Science,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Current Trends in Polymer Science,PCH 457 2.0,PCH,PCH 457 2.0 Current Trends in Polymer Science,4,NFC6,Lecture,All,13:00-15:00,Special,Physical/Biology
+Polymer Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Analysis of Macromolecules,PCH 465 1.0,PCH,PCH 465 1.0 Analysis of Macromolecules,4,C3,Lecture,Dr. Madhubhashini Maddumaarachchi,10:15-11:05,Special,Physical/Biology
+Polymer Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Advanced Inorganic Polymers,PCH 462 1.0,PCH,PCH 462 1.0 Advanced Inorganic Polymers,4,C2,Lecture,Dr. Sampath Gunathilaka,13:00-14:00,Special,Physical/Biology
+Polymer Science,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Advanced Polymer Materials,PCH 458 2.0,PCH,PCH 458 2.0 Advanced Polymer Materials,4,C2,Lecture,Dr. Sampath Gunathilaka,10:15-12:00,Special,Physical/Biology
+Polymer Science,Friday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Finite Element Analysis,PCH 456 1.0,PCH,PCH 456 1.0 Finite Element Analysis,4,C2,Lecture,Prof. Shantha Walpalage,13:00-14:00,Special,Physical/Biology
+Sports Science,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Basic Biochemistry,SSM 106 2.0,SSM,SSM 106 2.0 Basic Biochemistry,1,NFC6,Lecture,Dr. S. Weerasinghe,08:00-09:45,Special,Sports Science
+Sports Science,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,General Anatomy I,SSM 125 1.0,SSM,SSM 125 1.0 General Anatomy I,1,O,Lecture,Dr. S. Weerasinghe,10:15-12:00,Special,Sports Science
+Sports Science,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Sports Biomechanics,SSM 108 2.0,SSM,SSM 108 2.0 Sports Biomechanics,1,NFC6,Lecture,Mr. K.P. Manawadu / Mr. K.P.I. Silva,13:00-15:00,Special,Sports Science
+Sports Science,Monday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Aerobics for Health Promotion,SSM 192 2.0,SSM,SSM 192 2.0 Aerobics for Health Promotion,1,NFC6,Lecture,Ms. Kalani Harshala / Mr. D.S.L. Perera,15:00-17:00,Special,Sports Science
+Sports Science,Monday,1970-01-01T08:00:00Z,1970-01-01T11:05:00Z,FMSA of Coordination Sports Hockey,SSM 293 2.0,SSM,SSM 293 2.0 FMSA of Coordination Sports Hockey,2,O,Lecture,Dr. S.K. Fernando,08:00-11:05,Special,Sports Science
+Sports Science,Monday,1970-01-01T14:00:00Z,1970-01-01T17:00:00Z,FMSA of Coordination Sports Cricket,SSM 293 2.0,SSM,SSM 293 2.0 FMSA of Coordination Sports Cricket,2,O,Lecture,Mr. L.H.M.P. De Silva,14:00-17:00,Special,Sports Science
+Sports Science,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Operations Research in Sports,SSM 367 2.0,SSM,SSM 367 2.0 Operations Research in Sports,3,NFC6,Lecture,Dr. H.P.N. Perera,10:15-12:00,Special,Sports Science
+Sports Science,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Financial Management,SSM 364 2.0,SSM,SSM 364 2.0 Financial Management,3,B2,Lecture,Ms. M.H. Kumaragamage,13:00-15:00,Special,Sports Science
+Sports Science,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Physiology I,SSM 124 1.0,SSM,SSM 124 1.0 Physiology I,1,O,Lecture,Dr. S. Weerasinghe,10:15-12:00,Special,Sports Science
+Sports Science,Tuesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Sports Sociology,SSM 155 1.0,SSM,SSM 155 1.0 Sports Sociology,1,NFC6,Lecture,Dr. S.K. Fernando,15:00-16:00,Special,Sports Science
+Sports Science,Tuesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Tutorial,SSM T,SSM,SSM T Tutorial,1,T,Tutorial,NA,16:00-17:00,Special,Sports Science
+Sports Science,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Financial Accounting,SSM 260 2.0,SSM,SSM 260 2.0 Financial Accounting,2,NFC6,Lecture,Dr. H.P.N. Perera,08:00-09:45,Special,Sports Science
+Sports Science,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Applied Sports and Ex. Psychol.,SSM 254 2.0,SSM,SSM 254 2.0 Applied Sports and Ex. Psychol.,2,NFC6,Lecture,Mrs. A.M.G.C.P. Adikari,10:15-12:00,Special,Sports Science
+Sports Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Mixed Martial ArtsTaekwondo,SSM 294 2.0,SSM,SSM 294 2.0 Mixed Martial ArtsTaekwondo,2,O,Lecture,Miss. Shalini Bandara Dissanayake,13:00-16:00,Special,Sports Science
+Sports Science,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Practicals,SSM P,SSM,SSM P Practicals,3,P,Practicals,NA,08:00-09:45,Special,Sports Science
+Sports Science,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Sports for Special Population,SSM 388 2.0,SSM,SSM 388 2.0 Sports for Special Population,3,NFC6,Lecture,Mr. D.S.L. Perera / Dr. M.A.S. Udayanga,13:00-15:00,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Introduction to Mathematical Software,SSM 111 1.0,SSM,SSM 111 1.0  Introduction to Mathematical Software,1,M1,Lecture,Dr. M.T.M. Perera / Mr. Chameera Ginige,10:15-12:00,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,FMSA Gymnastics,SSM 191 1.0,SSM,SSM 191 1.0 FMSA Gymnastics,1,O,Lecture,Ms. Chalanima Kariyawasam,13:00-16:00,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Exercise andSports Physiology,SSM 225 2.0,SSM,SSM 225 2.0 Exercise andSports Physiology,2,NFC6,Lecture,Mrs. A.M.G.C.P. Adikari / Dr. M.A.S. Udayanga,08:00-09:45,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Mixed Martial Arts Wrestling,SSM 294 2.0,SSM,SSM 294 2.0  Mixed Martial Arts Wrestling,2,O,Lecture,Mr. Hansaka Kapukotuwa / Mrs. Sandakan Tharaka,10:15-12:00,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Mixed Martial Arts Wrestling,SSM 294 2.0,SSM,SSM 294 2.0  Mixed Martial Arts Wrestling,2,O,Lecture,Mr. Hansaka Kapukotuwa / Mrs. Sandakan Tharaka,13:00-14:00,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,LTAD,SSM 272 1.0,SSM,SSM 272 1.0  LTAD,2,NFC6,Lecture,Dr. M.A.S. Udayanga,14:00-15:00,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Dietetics,SSM 375 2.0,SSM,SSM 375 2.0 Dietetics,3,NFC6,Lecture,Dr. S. Weerasinghe,08:00-09:45,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Sport Org. Behaviour,SSM 366 2.0,SSM,SSM 366 2.0 Sport Org. Behaviour,3,NFC6,Lecture,Mr. A.L.K.R. Fernando / Ms. M.H. Kumaragamage,10:15-12:00,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Analytic Methods in Sports,SSM 374 2.0,SSM,SSM 374 2.0 Analytic Methods in Sports,3,NFC6,Lecture,Dr. R. Silva,13:00-15:00,Special,Sports Science
+Sports Science,Wednesday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Advanced Training Methods in Selected Sports,SSM 390 1.0,SSM,SSM 390 1.0 Advanced Training Methods in Selected Sports,3,NFC6,Lecture,Mr. K.P. Manawadu / Mr. L.H.M.P. De Silva,15:00-17:00,Special,Sports Science
+Sports Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T12:00:00Z,FMSA of Athletics II,SSM 189 1.0,SSM,SSM 189 1.0 FMSA of Athletics II,1,O,Lecture,Mr. L.H.M.P. De Silva,08:00-12:00,Special,Sports Science
+Sports Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,FMSA of Ball Games Basketball,SSM 190 3.0,SSM,SSM 190 3.0 FMSA of Ball Games Basketball,1,O,Lecture,Mr. K.P.I. Silva,13:00-15:00,Special,Sports Science
+Sports Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Analytic Methods in Sports,SSM 203 2.0,SSM,SSM 203 2.0 Analytic Methods in Sports,2,NFC6,Lecture,Dr. R. Silva / Mr. K.P.I. Silva,08:00-09:45,Special,Sports Science
+Sports Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Strength and Conditioning,SSM 271 2.0,SSM,SSM 271 2.0 Strength and Conditioning,2,NFC6,Lecture,Mr. K.P. Manawadu,10:15-12:00,Special,Sports Science
+Sports Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Professional Skills Development II,SSM 216 0.0,SSM,SSM 216 0.0 Professional Skills Development II,2,O,Lecture,Ms. L.Y.K. Mendis,13:00-15:00,Special,Sports Science
+Sports Science,Thursday,1970-01-01T08:00:00Z,1970-01-01T12:00:00Z,Practicum in Sports and Physical Education,SSM 352 2.0,SSM,SSM 352 2.0 Practicum in Sports and Physical Education,3,O,Lecture,Mr. D.S.L. Perera,08:00-12:00,Special,Sports Science
+Sports Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Practicum in Sports and Physical Education,SSM 352 2.0,SSM,SSM 352 2.0 Practicum in Sports and Physical Education,3,NFC6,Lecture,Mr. D.S.L. Perera,13:00-14:00,Special,Sports Science
+Sports Science,Thursday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Tutorial,SSM T,SSM,SSM T Tutorial,3,T,Tutorial,NA,14:00-15:00,Special,Sports Science
+Sports Science,Friday,1970-01-01T08:00:00Z,1970-01-01T11:05:00Z,FMSA of Ball Games Football,SSM 190 3.0,SSM,SSM 190 3.0 FMSA of Ball Games Football,1,O,Lecture,Mrs. Sandakan Tharaka,08:00-11:05,Special,Sports Science
+Sports Science,Friday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,FMSA of Ball Games Netball,SSM 190 3.0,SSM,SSM 190 3.0 FMSA of Ball Games Netball,1,O,Lecture,Mrs. Sandakan Tharaka,13:00-15:00,Special,Sports Science
+Sports Science,Friday,1970-01-01T08:00:00Z,1970-01-01T11:05:00Z,Mixed Martial ArtsBoxing,SSM 294 2.0,SSM,SSM 294 2.0 Mixed Martial ArtsBoxing,2,O,Lecture,Mr. Gihan Maduwantha / Mr. Chameera Ginige,08:00-11:05,Special,Sports Science
+Sports Science,Friday,1970-01-01T14:00:00Z,1970-01-01T17:00:00Z,FMSA of Coordination Sports Baseball,SSM 293 2.0,SSM,SSM 293 2.0 FMSA of Coordination Sports Baseball,2,O,Lecture,Mr. Vihanga De Silva / Mr. L.H.M.P. De Silva,14:00-17:00,Special,Sports Science
+Sports Science,Friday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Practicum in Sports and Physical Education,SSM 352 2.0,SSM,SSM 352 2.0 Practicum in Sports and Physical Education,3,O,Lecture,Mr. D.S.L. Perera,08:00-09:45,Special,Sports Science
+Sports Science,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Sport Ent. and Business Dev.,SSM 365 2.0,SSM,SSM 365 2.0 Sport Ent. and Business Dev.,3,NFC6,Lecture,Mr. A.L.K.R. Fernando,10:15-12:00,Special,Sports Science
+Sports Science,Friday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Practicum in Sports and Physical Education,SSM 352 2.0,SSM,SSM 352 2.0 Practicum in Sports and Physical Education,3,B2,Lecture,Mr. D.S.L. Perera,13:00-15:00,Special,Sports Science
+Sports Science,Friday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Sp. Event Management,SSM 463 2.0,SSM,SSM 463 2.0 Sp. Event Management,4,NFC6,Lecture,Mr. A.L.K.R. Fernando / Ms. M.H. Kumaragamage,08:00-09:45,Special,Sports Science
+Sports Science,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Dietetics,SSM 403 2.0,SSM,SSM 403 2.0 Dietetics,4,NFC6,Lecture,Dr. S. Weerasinghe,10:15-12:00,Special,Sports Science
+Sports Science,Friday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Coaching Ed.,SSM 481 2.0,SSM,SSM 481 2.0 Coaching Ed.,4,NFC6,Lecture,Mrs. A.M.G.C.P. Adikari,13:00-14:00,Special,Sports Science
+Sports Science,Saturday,1970-01-01T08:00:00Z,1970-01-01T12:00:00Z,FMSA of Ball Games Volleyball,SSM 190 3.0,SSM,SSM 190 3.0  FMSA of Ball Games Volleyball,1,O,Lecture,Mr. Udayantha Shaminda / Mr. L.H.M.P. De Silva,08:00-12:00,Special,Sports Science
+Sports Science,Saturday,1970-01-01T13:00:00Z,1970-01-01T17:00:00Z,Introduction to IT,SSM 110 1.0,SSM,SSM 110 1.0  Introduction to IT,1,O,Lecture,Mr. P.H.A.B. Shantha / Mr. Chameera Ginige,13:00-17:00,Special,Sports Science
+Genetics and Molecular Biology Unit,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Techniques in Molecular Biology and Genetic Engineering,GMB 105 2.0,GMB,GMB 105 2.0 Techniques in Molecular Biology and Genetic Engineering,1,B3,Lecture,Dr. Kasun Thambugala / Dr. Dilakshini Dayananda,10:15-12:00,General,Biology
+Genetics and Molecular Biology Unit,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Fundamentals of Molecular genetics,GMB 103 2.0,GMB,GMB 103 2.0 Fundamentals of Molecular genetics,1,B3,Lecture,Dr. Hiruni Harischandra,10:15-12:00,General,Biology
+Genetics and Molecular Biology Unit,Wednesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,GMB P,GMB,GMB P Practicals,1,P,Practicals,NA,13:00-16:00,General,Biology
+Genetics and Molecular Biology Unit,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Genomics and Proteomics,GMB 203 1.0,GMB,GMB 203 1.0 Genomics and Proteomics,2,F2,Lecture,Dr. Samawansha Thennakoon,10:15-11:05,General,Biology
+Genetics and Molecular Biology Unit,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Gene Expression and Regulation,GMB 205 1.0,GMB,GMB 205 1.0 Gene Expression and Regulation,2,F2,Lecture,Dr. Pamoda Jayathunga,11:10-12:00,General,Biology
+Genetics and Molecular Biology Unit,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Microbes and Microbial Genetics,GMB 204 2.0,GMB,GMB 204 2.0 Microbes and Microbial Genetics,2,B3,Lecture,Dr. Kasun Thambugala,08:00-09:45,General,Biology
+Genetics and Molecular Biology Unit,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,GMB P,GMB,GMB P Practicals,2,P,Practicals,NA,08:55-12:00,General,Biology
+Genetics and Molecular Biology Unit,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Immunology,GMB 302 2.0,GMB,GMB 302 2.0 Immunology,3,NA,Lecture,Dr. Varuni Gunathilake,08:00-08:50,General,Biology
+Genetics and Molecular Biology Unit,Monday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Human Genetics and Counseling,GMB 318 1.0,GMB,GMB 318 1.0 Human Genetics and Counseling,3,A1,Lecture,Dr. Gayani Galhena,08:55-12:00,General,Biology
+Genetics and Molecular Biology Unit,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Advanced  Laboratory  Techniques,GMB 337 1.0,GMB,GMB 337 1.0 Advanced  Laboratory  Techniques,3,C2,Lecture,Dr. Pamoda Jayathunga,13:00-15:00,Special,Biology
+Genetics and Molecular Biology Unit,Tuesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,GMB P,GMB,GMB P Practicals,3,P,Practicals,NA,08:55-12:00,General,Biology
+Genetics and Molecular Biology Unit,Tuesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,GMB P,GMB,GMB P Practicals,3,P,Practicals,NA,08:55-12:00,Special,Biology
+Genetics and Molecular Biology Unit,Tuesday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Research Methodology,GMB 320 2.0,GMB,GMB 320 2.0 Research Methodology,3,B3,Lecture,Prof. Upul Subasinghe,15:00-17:00,Special,Biology
+Genetics and Molecular Biology Unit,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Molecular Modeling and Computer Biochemistry,GMB 321 1.0,GMB,GMB 321 1.0 Molecular Modeling and Computer Biochemistry,3,A1,Lecture,Dr. Ranga Jayakody,08:00-09:45,General,Biology
+Genetics and Molecular Biology Unit,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Protein Engineering,GMB 323 2.0,GMB,GMB 323 2.0 Protein Engineering,3,B3,Lecture,Dr. Pamoda Jayathunga,10:15-12:00,General,Biology
+Genetics and Molecular Biology Unit,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Epigenetics,GMB 342 1.0,GMB,GMB 342 1.0 Epigenetics,3,NA,Lecture,Dr. Chanika Jayasinghe,08:00-09:45,Special,Biology
+Genetics and Molecular Biology Unit,Thursday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,RNA Biology,GMB 322 2.0,GMB,GMB 322 2.0 RNA Biology,3,F2,Lecture,Dr. Dilantha Gunawardena / Dr. Dilakshini Dayananda,13:00-14:00,General,Biology
+Genetics and Molecular Biology Unit,Friday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Molecular Entomology,GMB 326 2.0,GMB,GMB 326 2.0 Molecular Entomology,3,B3,Lecture,Prof. Nissanka de Silva,13:00-15:00,General,Biology
+Genetics and Molecular Biology Unit,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Molecular Immunology,GMB 404 2.0,GMB,GMB 404 2.0  Molecular Immunology,4,NA,Lecture,Dr. Varuni Gunathilake,08:00-08:50,Special,Biology
+Genetics and Molecular Biology Unit,Monday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Molecular Evolution,GMB 416 2.0,GMB,GMB 416 2.0 Molecular Evolution,4,B3,Lecture,Dr. Sachini Fernando,13:00-16:00,Special,Biology
+Genetics and Molecular Biology Unit,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Systems Biology,GMB 417 2.0,GMB,GMB 417 2.0 Systems Biology,4,A1,Lecture,Dr. Samawansha Thennakoon,10:15-12:00,Special,Biology
+Genetics and Molecular Biology Unit,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Neurobiology,GMB 408 2.0,GMB,GMB 408 2.0 Neurobiology,4,B2,Lecture,Mr. WHMDNB Wijekoon / Mr. Buddika Lakmal Gonawala,13:00-15:00,Special,Biology
+Genetics and Molecular Biology Unit,Saturday,1970-01-01T08:55:00Z,1970-01-01T11:05:00Z,Molecular Basis of Diseases,GMB 414 2.0,GMB,GMB 414 2.0  Molecular Basis of Diseases,4,B3,Lecture,Prof. Dinithi Peiris,08:55-11:05,Special,Biology
+Computer Science,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Software Engineering II,ICT 131 2.0,ICT,ICT 131 2.0 Software Engineering II,1,NFC6,Lecture,Ms. MKA Ariyaratne,10:15-12:00,General,Physical
+Computer Science,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Computer Programming - Laboratory II,ICT 130 1.0,ICT,ICT 130 1.0 Computer Programming - Laboratory II,1,BLC,Lecture,Dr. S Tissera / Ms. FS Sourjah,08:00-09:45,General,Physical
+Computer Science,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Practicals,ICT P,ICT,ICT P   Practicals,1,P,Practicals,NA,10:15-12:00,General,Physical
+Computer Science,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Tutorial,ICT T,ICT,ICT T Tutorial,1,T,Tutorial,NA,13:00-15:00,General,Physical
+Computer Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Object Oriented Programming,ICT 129 2.0,ICT,ICT 129 2.0 Object Oriented Programming,1,NFC3,Lecture,Dr. S Tissera,13:00-15:00,General,Physical
+Computer Science,Monday,1970-01-01T14:00:00Z,1970-01-01T16:00:00Z,Practicals,ICT P,ICT,ICT P   Practicals,2,P,Practicals,NA,14:00-16:00,General,Physical
+Computer Science,Tuesday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Visual Computing,ICT 231 1.5,ICT,ICT 231 1.5  Visual Computing,2,NFC4,Lecture,Mr. AMRR Bandara,15:00-17:00,General,Physical
+Computer Science,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Computer Networks and System Administration,ICT 230 1.5,ICT,ICT 230 1.5  Computer Networks and System Administration,2,PLT,Lecture,Mr. AMRR Bandara,08:00-09:45,General,Physical
+Computer Science,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,User Interface Design and Implementation,ICT 229 2.0,ICT,ICT 229 2.0 User Interface Design and Implementation,2,NFC3,Lecture,Dr. PRS De Silva,10:15-12:00,General,Physical
+Computer Science,Monday,1970-01-01T14:00:00Z,1970-01-01T16:00:00Z,Software Architecture and Design,ICT 330 2.0,ICT,ICT 330 2.0 Software Architecture and Design,3,NFC3,Lecture,Dr. EATA Edirisuriya,14:00-16:00,General,Physical
+Computer Science,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Data Mining and Data Warehousing,ICT 333 1.5,ICT,ICT 333 1.5 Data Mining and Data Warehousing,3,NFC3,Lecture,Dr. TMKK Jinasena,10:15-12:00,General,Physical
+Computer Science,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Software Quality Assurance,ICT 331 1.5,ICT,ICT 331 1.5 Software Quality Assurance,3,NFC3,Lecture,Ms. FS Sourjah,10:15-12:00,General,Physical
+Computer Science,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Human Computer Interaction,ICT 332 1.5,ICT,ICT 332 1.5 Human Computer Interaction,3,LCS2,Lecture,Dr. PRS De Silva,13:00-15:00,General,Physical
+Mathematics,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Principles of Macro Economics,MAN 126 2.0,MAN,MAN 126 2.0 Principles of Macro Economics,1,C1,Lecture,Dr. Kamal Gnanaweera,10:15-12:00,General,Physical/Biology
+Mathematics,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Introduction to Entrepreneurship,MAN 129 2.0,MAN,MAN 129 2.0 Introduction to Entrepreneurship,1,PLT,Lecture,Dr. Kamal Gnanaweera,13:00-15:00,General,Physical/Biology
+Mathematics,Friday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Introduction to Statistics,MAN 128 1.0,MAN,MAN 128 1.0 Introduction to Statistics,1,PLT,Lecture,Mr. Chammika De Mel,08:00-08:50,General,Physical/Biology
+Mathematics,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Organizational Behaviour,MAN 226 2.0,MAN,MAN 226 2.0 Organizational Behaviour,2,PLT,Lecture,Dr. Anuradha Iddagoda,10:15-12:00,General,Physical/Biology
+Mathematics,Monday,1970-01-01T16:00:00Z,1970-01-01T17:45:00Z,Business Law,MAN 228 1.0,MAN,MAN 228 1.0 Business Law,2,NFC3,Lecture,VL,16:00-17:45,General,Physical/Biology
+Mathematics,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Statistical Quality Control and Industrial Statistics,MAN 227 2.0,MAN,MAN 227 2.0 Statistical Quality Control and Industrial Statistics,2,A1,Lecture,Dr. Anoma Edirimanna,10:15-12:00,General,Physical/Biology
+Mathematics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Micro Computers and their Applications,MAN 327 2.0,MAN,MAN 327 2.0 Micro Computers and their Applications,3,C1,Lecture,Dr. Mahesh Fernando,10:15-12:00,General,Physical/Biology
+Mathematics,Wednesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Strategic Management,MAN 329 1.0,MAN,MAN 329 1.0 Strategic Management,3,PLT,Lecture,Dr. Anuradha Iddagoda,13:00-14:00,General,Physical/Biology
+Mathematics,Wednesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Production Control,MAN 326 1.0,MAN,MAN 326 1.0 Production Control,3,PLT,Lecture,Ms. Chathurika Jayasuriya,15:00-16:00,General,Physical/Biology
+Mathematics,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Research Methodology,MAN 328 2.0,MAN,MAN 328 2.0 Research Methodology,3,C1,Lecture,Dr. Kamal Gnanaweera,10:15-12:00,General,Physical/Biology
+Statistics,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Probability and Distribution Theory II,STA 123 2.0,STA,STA 123 2.0 Probability and Distribution Theory II,1,NFC4,Lecture,Prof. B.M.S.G. Banneheka,10:15-12:00,General,Physical
+Statistics,Monday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Data Analysis I,STA 124 2.0,STA,STA 124 2.0 Data Analysis I,1,Stat Lab,Lecture,Dr. K.M.P. Perera,15:00-17:00,General,Physical
+Statistics,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Data Analysis I,STA 124 2.0,STA,STA 124 2.0 Data Analysis I,1,LCS1,Lecture,Dr. K.M.P. Perera,13:00-15:00,General,Physical
+Statistics,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Data Analysis I,STA 124 2.0,STA,STA 124 2.0 Data Analysis I,1,Stat Lab,Lecture,Dr. K.M.P. Perera,08:00-09:45,General,Physical
+Statistics,Friday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Statistical Communication,STA 125 1.0,STA,STA 125 1.0  Statistical Communication,1,NFC4,Lecture,Dr. H.A. Pathberiya,08:00-09:45,General,Physical
+Statistics,Tuesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Regression Analysis,STA 224 2.0,STA,STA 224 2.0 Regression Analysis,2,NFC4,Lecture,Dr. N. Withanage,08:00-09:45,General,Physical
+Statistics,Tuesday,1970-01-01T15:00:00Z,1970-01-01T17:00:00Z,Data Analysis II,STA 226 1.0,STA,STA 226 1.0 Data Analysis II,2,LCS1,Lecture,Mrs. K.A.D.B.S. Karunasena,15:00-17:00,General,Physical
+Statistics,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Data Analysis II,STA 226 1.0,STA,STA 226 1.0 Data Analysis II,2,LCS1,Lecture,Mrs. K.A.D.B.S. Karunasena,08:00-09:45,General,Physical
+Statistics,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Design and Analysis of Experiments,STA 225 2.0,STA,STA 225 2.0 Design and Analysis of Experiments,2,NFC4,Lecture,Dr. P. Liyanaarachchi,10:15-12:00,General,Physical
+Statistics,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Data analysis and Preparation of Results,STA 330 2.0,STA,STA 330 2.0 Data analysis and Preparation of Results,3,LCS1,Lecture,Dr. C. Wickramarachchi,08:00-09:45,General,Physical
+Statistics,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Data analysis and Preparation of Results,STA 330 2.0,STA,STA 330 2.0 Data analysis and Preparation of Results,3,LCS1,Lecture,Dr. C. Wickramarachchi,08:00-09:45,Special,Physical
+Statistics,Monday,1970-01-01T16:00:00Z,1970-01-01T17:45:00Z,Data analysis and Preparation of Results,STA 330 2.0,STA,STA 330 2.0 Data analysis and Preparation of Results,3,LCS1,Lecture,Dr. C. Wickramarachchi,16:00-17:45,General,Physical
+Statistics,Monday,1970-01-01T16:00:00Z,1970-01-01T17:45:00Z,Data analysis and Preparation of Results,STA 330 2.0,STA,STA 330 2.0 Data analysis and Preparation of Results,3,LCS1,Lecture,Dr. C. Wickramarachchi,16:00-17:45,Special,Physical
+Statistics,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Actuarial Statistics,STA 323 2.0,STA,STA 323 2.0 Actuarial Statistics,3,Stat Lab,Lecture,Dr. N. Devpura,10:15-12:00,Special,Physical
+Statistics,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Statistical Data Mining,STA 476 2.0,STA,STA 476 2.0 Statistical Data Mining,3,Stat Lab,Lecture,Dr. C. Wickramarachchi,13:00-15:00,Special,Physical
+Statistics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Compilation of Official Statistics,STA 332 2.0,STA,STA 332 2.0  Compilation of Official Statistics,3,Online,Lecture,Dr. P. Hapuarachchi,10:15-12:00,General,Physical
+Statistics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Compilation of Official Statistics,STA 332 2.0,STA,STA 332 2.0  Compilation of Official Statistics,3,Online,Lecture,Dr. P. Hapuarachchi,10:15-12:00,Special,Physical
+Statistics,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Stochastic Processes,STA 331 2.0,STA,STA 331 2.0 Stochastic Processes,3,Stat Lab,Lecture,Dr. T. Talagala,13:00-15:00,Special,Physical
+Statistics,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Decision Theory,STA 313 1.0,STA,STA 313 1.0 Decision Theory,3,NFC4,Lecture,Dr. R. Lokupitiya,08:00-09:45,General,Physical
+Statistics,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Multivariate Statistics II,STA 327 2.0,STA,STA 327 2.0 Multivariate Statistics II,3,Stat Lab,Lecture,Dr. R. Lokupitiya,10:15-12:00,Special,Physical
+Statistics,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Generalized Linear and Non Linear Models,STA 471 2.0,STA,STA 471 2.0 Generalized Linear and Non Linear Models,3,Stat Lab,Lecture,Dr. N. Withanage,13:00-15:00,Special,Physical
+Statistics,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Advanced Statistical Inference,STA 329 2.0,STA,STA 329 2.0 Advanced Statistical Inference,3,Stat Lab2,Lecture,Prof. B.M.S.G. Banneheka,08:00-09:45,Special,Physical
+Statistics,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Statistical Quality Assurance,STA 321 2.0,STA,STA 321 2.0 Statistical Quality Assurance,3,Stat Lab2,Lecture,Dr. R. Silva,10:15-12:00,General,Physical
+Statistics,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Statistical Quality Assurance,STA 321 2.0,STA,STA 321 2.0 Statistical Quality Assurance,3,Stat Lab2,Lecture,Dr. R. Silva,10:15-12:00,Special,Physical
+Statistics,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Medical Statistics,STA 322 2.0,STA,STA 322 2.0 Medical Statistics,3,NFC4,Lecture,Dr. C. Jayasinghe,13:00-15:00,General,Physical
+Statistics,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Medical Statistics,STA 322 2.0,STA,STA 322 2.0 Medical Statistics,3,NFC4,Lecture,Dr. C. Jayasinghe,13:00-15:00,Special,Physical
+Statistics,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Essential Skills in Statistics,STA 315 2.0,STA,STA 315 2.0 Essential Skills in Statistics,3,NFC4,Lecture,Mr. P. Dias,10:15-12:00,General,Physical
+Statistics,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Essential Skills in Statistics,STA 315 2.0,STA,STA 315 2.0 Essential Skills in Statistics,3,NFC4,Lecture,Mr. P. Dias,10:15-12:00,Special,Physical
+Statistics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Bayesian Inference,STA 472 2.0,STA,STA 472 2.0 Bayesian Inference,4,Stat Lab,Lecture,Dr. R. Silva,10:15-12:00,Special,Physical
+Statistics,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Survival Analysis,STA 486 2.0,STA,STA 486 2.0 Survival Analysis,4,Stat Lab,Lecture,Dr. C. Jayasinghe,10:15-12:00,Special,Physical
+Statistics,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Spatial Statistics,STA 477 2.0,STA,STA 477 2.0 Spatial Statistics,4,Stat Lab,Lecture,Dr. R. Lokupitiya,08:00-09:45,Special,Physical
+Statistics,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Econometric Models,STA 475 2.0,STA,STA 475 2.0 Econometric Models,4,Stat Lab2,Lecture,Dr. N. Devpura,10:15-12:00,Special,Physical
+Statistics,Friday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Statistical Consultancy,STA 474 2.0,STA,STA 474 2.0 Statistical Consultancy,4,Stat Lab,Lecture,Dr. T. Talagala,13:00-15:00,Special,Physical
+Statistics,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Advanced Time Series Analysis,STA 478 2.0,STA,STA 478 2.0 Advanced Time Series Analysis,4,Stat Lab,Lecture,Dr. H.A. Pathberiya,10:15-12:00,Special,Physical
+Statistics,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Seminar,STA 481 2.0,STA,STA 481 2.0 Seminar,4,Stat Lab2,Lecture,Dr. R. Silva,13:00-15:00,Special,Physical
+Statistics,Wednesday,1970-01-01T16:00:00Z,1970-01-01T17:45:00Z,Introductory Statistics,STA 349 2.0,STA,STA 349 2.0  Introductory Statistics,3,NFC4,Lecture,Dr. C. Wickramarachchi,16:00-17:45,General,Physical/Biology
+Statistics,Wednesday,1970-01-01T16:00:00Z,1970-01-01T17:45:00Z,Introductory Statistics,STA 349 2.0,STA,STA 349 2.0  Introductory Statistics,3,NFC4,Lecture,Dr. C. Wickramarachchi,16:00-17:45,Special,Physical/Biology
+Zoology,Monday,1970-01-01T08:00:00Z,1970-01-01T12:00:00Z,Practicals,ZOO P,ZOO,ZOO P Practicals,1,P,Practicals,NA,08:00-12:00,General,Biology
+Zoology,Monday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,ZOO P,ZOO,ZOO P Practicals,1,P,Practicals,NA,13:00-16:00,General,Biology
+Zoology,Tuesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Ecology,ZOO 121 1.0,ZOO,ZOO 121 1.0 Ecology,1,A1,Lecture,Prof. R. R. M. K. P. Ranatunga,13:00-14:00,General,Biology
+Zoology,Tuesday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Insect Biology,ZOO 130 1.0,ZOO,ZOO 130 1.0 Insect Biology,1,A1,Lecture,Dr. A. G. W. U. Perera,14:00-15:00,General,Biology
+Zoology,Wednesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Comparative Functional Anatomy,ZOO 124 1.0,ZOO,ZOO 124 1.0 Comparative Functional Anatomy,1,A1,Lecture,Dr. K. N. M. Wijayathilaka,11:10-12:00,General,Biology
+Zoology,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Fundamentals of Environmental Science,ZOO 129 1.0,ZOO,ZOO 129 1.0 Fundamentals of Environmental Science,1,A1,Lecture,Snr. Prof. M. M. Pathmalal,10:15-11:05,General,Biology
+Zoology,Friday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Tutorial,ZOO T,ZOO,ZOO T Tutorial,1,T,Tutorial,NA,08:00-08:50,General,Biology
+Zoology,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Practicals,ZOO P,ZOO,ZOO P Practicals,2,P,Practicals,NA,10:15-12:00,General,Biology
+Zoology,Tuesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,ZOO P,ZOO,ZOO P Practicals,2,P,Practicals,NA,13:00-16:00,General,Biology
+Zoology,Thursday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Biodiversity & Conservation,ZOO 224 1.0,ZOO,ZOO 224 1.0 Biodiversity & Conservation,2,A1,Lecture,Prof. W. A. D. Mahaulpatha / Dr. E. G. D. P. Jayasekara,08:00-08:50,General,Biology
+Zoology,Thursday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Developmental Zoology,ZOO 228 1.0,ZOO,ZOO 228 1.0 Developmental Zoology,2,A1,Lecture,Prof. L. D. C. Peiris,08:55-09:45,General,Biology
+Zoology,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Genetics and Molecular Biology,ZOO 231 2.0,ZOO,ZOO 231 2.0 Genetics and Molecular Biology,2,A1,Lecture,Dr. H. S. D. Fernando,10:15-12:00,General,Biology
+Zoology,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Integrated Watershed Management,ZOO 347 1.0,ZOO,ZOO 347 1.0 Integrated Watershed Management,3,A1,Lecture,Dr. S. A. M. A. I. K. Senanayake,08:00-08:50,General,Biology
+Zoology,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Integrated Watershed Management,ZOO 347 1.0,ZOO,ZOO 347 1.0 Integrated Watershed Management,3,A1,Lecture,Dr. S. A. M. A. I. K. Senanayake,08:00-08:50,Special,Biology
+Zoology,Monday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Environmental Physiology,ZOO 332 1.0,ZOO,ZOO 332 1.0 Environmental Physiology,3,A1,Lecture,Dr. F. S. Idroos,08:55-09:45,General,Biology
+Zoology,Monday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Environmental Physiology,ZOO 332 1.0,ZOO,ZOO 332 1.0 Environmental Physiology,3,A1,Lecture,Dr. F. S. Idroos,08:55-09:45,Special,Biology
+Zoology,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Wildlife Management,ZOO 345 1.0,ZOO,ZOO 345 1.0 Wildlife Management,3,A1,Lecture,Prof. W. A. D. Mahaulpatha,10:15-11:05,General,Biology
+Zoology,Monday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Wildlife Management,ZOO 345 1.0,ZOO,ZOO 345 1.0 Wildlife Management,3,A1,Lecture,Prof. W. A. D. Mahaulpatha,10:15-11:05,Special,Biology
+Zoology,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Fundamentals of Microbial Ecology,ZOO 344 1.0,ZOO,ZOO 344 1.0 Fundamentals of Microbial Ecology,3,A1,Lecture,Snr. Prof. M. M. Pathmalal,11:10-12:00,General,Biology
+Zoology,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Fundamentals of Microbial Ecology,ZOO 344 1.0,ZOO,ZOO 344 1.0 Fundamentals of Microbial Ecology,3,A1,Lecture,Snr. Prof. M. M. Pathmalal,11:10-12:00,Special,Biology
+Zoology,Monday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Fundamentals of Immunology,ZOO 343 1.0,ZOO,ZOO 343 1.0 Fundamentals of Immunology,3,A1,Lecture,Dr. K. V. K. Gunathilake,15:00-16:00,General,Biology
+Zoology,Monday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Fundamentals of Immunology,ZOO 343 1.0,ZOO,ZOO 343 1.0 Fundamentals of Immunology,3,A1,Lecture,Dr. K. V. K. Gunathilake,15:00-16:00,Special,Biology
+Zoology,Tuesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Toxicology of Insecticides,ZOO 346 1.0,ZOO,ZOO 346 1.0 Toxicology of Insecticides,3,A1,Lecture,Dr. A. G. W. U. Perera,08:55-09:45,General,Biology
+Zoology,Tuesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Toxicology of Insecticides,ZOO 346 1.0,ZOO,ZOO 346 1.0 Toxicology of Insecticides,3,A1,Lecture,Dr. A. G. W. U. Perera,08:55-09:45,Special,Biology
+Zoology,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Nutrition,ZOO 327 2.0,ZOO,ZOO 327 2.0 Nutrition,3,NFC3,Lecture,Dr. K. V. K. Gunathilake,13:00-15:00,General,Biology
+Zoology,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Nutrition,ZOO 327 2.0,ZOO,ZOO 327 2.0 Nutrition,3,NFC3,Lecture,Dr. K. V. K. Gunathilake,13:00-15:00,Special,Biology
+Zoology,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,ZOO P,ZOO,ZOO P Practicals,3,P,Practicals,NA,08:55-12:00,General,Biology
+Zoology,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,ZOO P,ZOO,ZOO P Practicals,3,P,Practicals,NA,08:55-12:00,Special,Biology
+Zoology,Friday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,ZOO P,ZOO,ZOO P Practicals,3,P,Practicals,NA,13:00-16:00,General,Biology
+Zoology,Friday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,ZOO P,ZOO,ZOO P Practicals,3,P,Practicals,NA,13:00-16:00,Special,Biology
+Zoology,Friday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Molecular Systematics,ZOO 426 2.0,ZOO,ZOO 426 2.0 Molecular Systematics,4,SLH - Botany,Lecture,Snr. Prof. B. G. D. N. K. De Silva,13:00-15:00,Special,Biology
+Zoology,NA,NA,NA,Applications of Microbial Ecology,ZOO 427 2.0,ZOO,ZOO 427 2.0 Applications of Microbial Ecology,4,SLH - Botany,Lecture,Snr. Prof. M. M. Pathmalal,NA-NA,Special,Biology
+Zoology,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Tetrapod Biology,ZOO 428 2.0,ZOO,ZOO 428 2.0 Tetrapod Biology,4,SLH - Botany,Lecture,Prof. W. A. D. Mahaulpatha,10:15-12:00,Special,Biology
+Zoology,Saturday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Molecular Principles of Human Diseases,ZOO 414 2.0,ZOO,ZOO 414 2.0 Molecular Principles of Human Diseases,4,SLH - Botany,Lecture,Prof. L. D. C. Peiris,08:55-12:00,Special,Biology
+Zoology,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Bio Intensive Integrated Pest Management,ZOO 425 2.0,ZOO,ZOO 425 2.0 Bio Intensive Integrated Pest Management,4,SLH - Botany,Lecture,Dr. A. G. W. U. Perera,10:15-12:00,Special,Biology
+Zoology,NA,NA,NA,Mosquito Biology,ZOO 429 2.0,ZOO,ZOO 429 2.0 Mosquito Biology,4,SLH - Botany,Lecture,Dr. H. S. D. Fernando,NA-NA,Special,Biology
+Zoology,Monday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Water Chemistry,ARM 110 1.0,ARM,ARM 110 1.0 Water Chemistry,1,A1,Lecture,Prof. S.D.M. Chinthaka,14:00-15:00,General,Biology
+Zoology,Tuesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Aquatic Invertebrates,ARM 109 1.0,ARM,ARM 109 1.0 Aquatic Invertebrates,1,A1,Lecture,Dr. K. N. M. Wijayathilaka,11:10-12:00,General,Biology
+Zoology,Wednesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Aquatic Vegetation,ARM 108 1.0,ARM,ARM 108 1.0 Aquatic Vegetation,1,A1,Lecture,Dr. I. U. Kariyawasam,08:00-08:50,General,Biology
+Zoology,Wednesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Ecology of Plankton & Benthos,ARM 107 1.0,ARM,ARM 107 1.0 Ecology of Plankton & Benthos,1,A1,Lecture,Dr. F. S. Idroos,08:55-09:45,General,Biology
+Zoology,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Practicals,ARM P,ARM,ARM P Practicals,1,P,Practicals,NA,13:00-15:00,General,Biology
+Zoology,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Inland Fisheries,ARM 206 1.0,ARM,ARM 206 1.0 Inland Fisheries,2,M1,Lecture,Prof. D. C. T. Dissanayake / Dr. F. S. Idroos,08:00-08:50,General,Biology
+Zoology,Monday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,ARM P,ARM,ARM P Practicals,2,P,Practicals,NA,08:55-12:00,General,Biology
+Zoology,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Culture Methods of Finfish & Shellfish,ARM 205 2.0,ARM,ARM 205 2.0 Culture Methods of Finfish & Shellfish,2,A1,Lecture,Dr. S. A. M. A. I. K. Senanayake,13:00-15:00,General,Biology
+Zoology,Friday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Fish Genetics,ARM 207 1.0,ARM,ARM 207 1.0 Fish Genetics,2,B3,Lecture,Dr. K. V. K. Gunathilake,08:55-09:45,General,Biology
+Zoology,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Integrated Watershed Management,ARM 311 1.0,ARM,ARM 311 1.0 Integrated Watershed Management,3,A1,Lecture,Dr. S. A. M. A. I. K. Senanayake,08:00-08:50,General,Biology
+Zoology,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Integrated Watershed Management,ARM 311 1.0,ARM,ARM 311 1.0 Integrated Watershed Management,3,A1,Lecture,Dr. S. A. M. A. I. K. Senanayake,08:00-08:50,Special,Biology
+Zoology,Monday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Ecophysiology,ARM 310 1.0,ARM,ARM 310 1.0 Ecophysiology,3,A1,Lecture,Dr. F. S. Idroos,08:55-09:45,General,Biology
+Zoology,Monday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Ecophysiology,ARM 310 1.0,ARM,ARM 310 1.0 Ecophysiology,3,A1,Lecture,Dr. F. S. Idroos,08:55-09:45,Special,Biology
+Zoology,Monday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Aquatic Vertebrate Conservation,ARM 312 1.0,ARM,ARM 312 1.0 Aquatic Vertebrate Conservation,3,F2,Lecture,Prof. W. A. D. Mahaulpatha,14:00-15:00,General,Biology
+Zoology,Monday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Aquatic Vertebrate Conservation,ARM 312 1.0,ARM,ARM 312 1.0 Aquatic Vertebrate Conservation,3,F2,Lecture,Prof. W. A. D. Mahaulpatha,14:00-15:00,Special,Biology
+Zoology,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Nutrition,ARM 304 2.0,ARM,ARM 304 2.0 Nutrition,3,NFC3,Lecture,Dr. K. V. K. Gunathilake,13:00-15:00,General,Biology
+Zoology,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Nutrition,ARM 304 2.0,ARM,ARM 304 2.0 Nutrition,3,NFC3,Lecture,Dr. K. V. K. Gunathilake,13:00-15:00,Special,Biology
+Zoology,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Marine and Coastal Ecology,ARM 309 2.0,ARM,ARM 309 2.0 Marine and Coastal Ecology,3,F2,Lecture,Prof. R. R. M. K. P. Ranatunga,10:15-12:00,General,Biology
+Zoology,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Marine and Coastal Ecology,ARM 309 2.0,ARM,ARM 309 2.0 Marine and Coastal Ecology,3,F2,Lecture,Prof. R. R. M. K. P. Ranatunga,10:15-12:00,Special,Biology
+Zoology,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,ARM P,ARM,ARM P Practicals,3,P,Practicals,NA,08:55-12:00,General,Biology
+Zoology,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,ARM P,ARM,ARM P Practicals,3,P,Practicals,NA,08:55-12:00,Special,Biology
+Zoology,Tuesday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Principles of Ecology,BIO 111 1.0,BIO,BIO 111 1.0 Principles of Ecology,1,A1,Lecture,Prof. R. R. M. K. P. Ranatunga,13:00-14:00,General,Biology
+Zoology,Wednesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,BIO P,BIO,BIO P Practicals,1,P,Practicals,NA,08:55-12:00,General,Biology
+Zoology,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Plant Form and Function,BIO 104 2.0,BIO,BIO 104 2.0  Plant Form and Function,1,A1,Lecture,Prof. W.T.P.S.K.Senarath,13:00-15:00,General,Biology
+Zoology,Wednesday,1970-01-01T16:00:00Z,1970-01-01T17:45:00Z,Biological Statistics,BIO 110 1.0,BIO,BIO 110 1.0 Biological Statistics,1,NFC4,Lecture,Dr. C. Wickramarachchi,16:00-17:45,General,Biology
+Zoology,Tuesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,BIO P,BIO,BIO P Practicals,2,P,Practicals,NA,08:55-12:00,General,Biology
+Zoology,Tuesday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Entomology,BIO 212 1.0,BIO,BIO 212 1.0 Entomology,2,A1,Lecture,Dr. A. G. W. U. Perera,14:00-15:00,General,Biology
+Zoology,Thursday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Developmental Biology,BIO 211 1.0,BIO,BIO 211 1.0 Developmental Biology,2,A1,Lecture,Prof. L. D. C. Peiris,08:55-09:45,General,Biology
+Zoology,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Environmental Science,BIO 209 1.0,BIO,BIO 209 1.0 Environmental Science,2,A1,Lecture,Snr. Prof. M. M. Pathmalal,10:15-12:00,General,Biology
+Zoology,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Genetics and Molecular Biology,BIO 207 2.0,BIO,BIO 207 2.0 Genetics and Molecular Biology,2,A1,Lecture,Dr. H. S. D. Fernando,10:15-12:00,General,Biology
+Zoology,Friday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Host Microbial Interactions,BIO 210 1.0,BIO,BIO 210 1.0 Host Microbial Interactions,2,NFC3,Lecture,Ms. H.T. Mandakini,13:00-14:00,General,Biology
+Zoology,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Microbial Ecology,BIO 354 1.0,BIO,BIO 354 1.0 Microbial Ecology,3,A1,Lecture,Snr. Prof. M. M. Pathmalal,11:10-12:00,General,Biology
+Zoology,Monday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Microbial Ecology,BIO 354 1.0,BIO,BIO 354 1.0 Microbial Ecology,3,A1,Lecture,Snr. Prof. M. M. Pathmalal,11:10-12:00,Special,Biology
+Zoology,Monday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Immunology,BIO 355 1.0,BIO,BIO 355 1.0 Immunology,3,A1,Lecture,Dr. K. V. K. Gunathilake,15:00-16:00,General,Biology
+Zoology,Monday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Immunology,BIO 355 1.0,BIO,BIO 355 1.0 Immunology,3,A1,Lecture,Dr. K. V. K. Gunathilake,15:00-16:00,Special,Biology
+Zoology,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Nutrition,BIO 308 2.0,BIO,BIO 308 2.0 Nutrition,3,NFC3,Lecture,Dr. K. V. K. Gunathilake,13:00-15:00,General,Biology
+Zoology,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Nutrition,BIO 308 2.0,BIO,BIO 308 2.0 Nutrition,3,NFC3,Lecture,Dr. K. V. K. Gunathilake,13:00-15:00,Special,Biology
+Zoology,Tuesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Bioinformatics,BIO 345 1.0,BIO,BIO 345 1.0 Bioinformatics,3,BLT,Lecture,Dr. I. U. Kariyawasam,16:00-17:00,General,Biology
+Zoology,Tuesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Bioinformatics,BIO 345 1.0,BIO,BIO 345 1.0 Bioinformatics,3,BLT,Lecture,Dr. I. U. Kariyawasam,16:00-17:00,Special,Biology
+Zoology,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Bioinformatics,BIO 345 1.0,BIO,BIO 345 1.0 Bioinformatics,3,BLT,Lecture,Dr. I. U. Kariyawasam,10:15-11:05,General,Biology
+Zoology,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Bioinformatics,BIO 345 1.0,BIO,BIO 345 1.0 Bioinformatics,3,BLT,Lecture,Dr. I. U. Kariyawasam,10:15-11:05,Special,Biology
+Zoology,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,BIO P,BIO,BIO P Practicals,3,P,Practicals,NA,08:55-12:00,General,Biology
+Zoology,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,BIO P,BIO,BIO P Practicals,3,P,Practicals,NA,08:55-12:00,Special,Biology
+Zoology,Friday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,BIO P,BIO,BIO P Practicals,3,P,Practicals,NA,13:00-16:00,General,Biology
+Zoology,Friday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,BIO P,BIO,BIO P Practicals,3,P,Practicals,NA,13:00-16:00,Special,Biology
+Zoology,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Microbial Enzymes in Biotechnology,BIO 428 1.0,BIO,BIO 428 1.0 Microbial Enzymes in Biotechnology,4,SLH - Botany,Lecture,Dr. R. Wimalasekara,08:00-09:45,Special,Biology
+Zoology,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Advanced Applied Microbiology,BIO 429 2.0,BIO,BIO 429 2.0 Advanced Applied Microbiology,4,SLH - Botany,Lecture,Dr. Anusha Ekanayaka,13:00-15:00,Special,Biology
+Mathematics,Monday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Vector Calculus,MAT 123 1.0,MAT,MAT 123 1.0 Vector Calculus,1,S1,Lecture,Mr. G. J. K. Silva,13:00-14:00,General,Physical
+Mathematics,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Linear Algebra I,MAT 121 2.0,MAT,MAT 121 2.0 Linear Algebra I,1,S1,Lecture,Dr. Menaka Liyanage,08:00-09:45,General,Physical
+Mathematics,Wednesday,1970-01-01T17:00:00Z,1970-01-01T17:45:00Z,Tutorial,MAT T,MAT,MAT T  Tutorial,1,S1,Tutorial,NA,17:00-17:45,General,Physical
+Mathematics,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Calculus,MAT 122 2.0,MAT,MAT 122 2.0  Calculus,1,S1,Lecture,Dr. R. N. P. De Silva,10:15-12:00,General,Physical
+Mathematics,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Partial Differential Equations,MAT 222 2.0,MAT,MAT 222 2.0 Partial Differential Equations,2,S1,Lecture,Dr. P.G.T.Harshani,08:00-09:45,General,Physical
+Mathematics,Wednesday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Tutorial,MAT T,MAT,MAT T  Tutorial,2,NFC4,Tutorial,NA,14:00-15:00,General,Physical
+Mathematics,Thursday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Functions of Several Variables,MAT 221 2.0,MAT,MAT 221 2.0 Functions of Several Variables,2,S1,Lecture,Dr. R. P. K. De Silva / Dr. Prabath Silva,08:00-09:45,General,Physical
+Mathematics,Friday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Basics of Number Theory,MAT 223 1.0,MAT,MAT 223 1.0 Basics of Number Theory,2,S1,Lecture,Dr. Jayantha Senadeera,08:00-08:50,General,Physical
+Mathematics,Friday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Tutorial,MAT T,MAT,MAT T  Tutorial,2,S1,Tutorial,NA,08:55-09:45,General,Physical
+Mathematics,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Differential Geometry,MAT 322 2.0,MAT,MAT 322 2.0 Differential Geometry,3,S1,Lecture,Dr. Thanuja Paragoda,10:15-12:00,General,Physical
+Mathematics,Friday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Abstract Algebra,MAT 321 2.0,MAT,MAT 321 2.0 Abstract Algebra,3,S1,Lecture,Dr. J. K. Rathnayake,08:00-09:45,General,Physical
+Mathematics,Friday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Optimization,MAT 323 1.0,MAT,MAT 323 1.0 Optimization,3,S1,Lecture,Dr. N. C. Ganegoda,13:00-15:00,General,Physical
+Mathematics,Friday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Tutorial,MAT T,MAT,MAT T  Tutorial,3,C1,Tutorial,NA,15:00-16:00,General,Physical
+Mathematics,Monday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Graph Theory,MAT 353 3.0,MAT,MAT 353 3.0 Graph Theory,3,M2,Lecture,Dr. G. H. J. Lanel,08:00-09:45,Special,Physical
+Mathematics,Tuesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Seminar and Report Writing,MAT 380 2.0,MAT,MAT 380 2.0 Seminar and Report Writing,3,M1,Lecture,Prof. K. B. M. Fonseka,08:55-12:00,Special,Physical
+Mathematics,Tuesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Complex Variables,MAT 377 3.0,MAT,MAT 377 3.0 Complex Variables,3,M1,Lecture,Dr. B.V.N.C. Vidanage,13:00-16:00,Special,Physical
+Mathematics,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Graph Theory,MAT 353 3.0,MAT,MAT 353 3.0 Graph Theory,3,M2,Lecture,Dr. G. H. J. Lanel,08:00-09:45,Special,Physical
+Mathematics,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Topology,MAT 382 2.0,MAT,MAT 382 2.0 Topology,3,M2,Lecture,Mr. G. J. K. Silva,10:15-12:00,Special,Physical
+Mathematics,Friday,1970-01-01T08:00:00Z,1970-01-01T11:05:00Z,Ring Theory,MAT 375 3.0,MAT,MAT 375 3.0 Ring Theory,3,M1,Lecture,Dr. L. M. Liyanage,08:00-11:05,Special,Physical
+Mathematics,Friday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Seminar and Report Writing,MAT 380 2.0,MAT,MAT 380 2.0 Seminar and Report Writing,3,M1,Lecture,Prof. K. B. M. Fonseka,13:00-16:00,Special,Physical
+Mathematics,Monday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Fields and Galois Theory,MAT 451 3.0,MAT,MAT 451 3.0 Fields and Galois Theory,4,M2,Lecture,Mr. K. K. W. A. Sarath Kumara,10:15-12:00,Special,Physical
+Mathematics,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Differential Geometry and Manifolds,MAT 484 2.0,MAT,MAT 484 2.0 Differential Geometry and Manifolds,4,M1,Lecture,Dr. Prabath Silva,13:00-15:00,Special,Physical
+Mathematics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Combinatorics,MAT 483 2.0,MAT,MAT 483 2.0 Combinatorics,4,SRL - Mathematics,Lecture,Dr. Jayantha Senadeera,10:15-12:00,Special,Physical
+Mathematics,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Functional Analysis,MAT 476 3.0,MAT,MAT 476 3.0 Functional Analysis,4,SRL - Mathematics,Lecture,Dr. Prabath Silva,13:00-15:00,Special,Physical
+Mathematics,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Univalent Functions and Conformal Mappings,MAT 485 2.0,MAT,MAT 485 2.0 Univalent Functions and Conformal Mappings,4,SRL - Mathematics,Lecture,Dr. B.V.N.C. Vidanage,08:00-09:45,Special,Physical
+Mathematics,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Computational Mathematics,MAT 454 2.0,MAT,MAT 454 2.0 Computational Mathematics,4,SRL - Mathematics,Lecture,Dr. G. H. J. Lanel,10:15-12:00,Special,Physical
+Mathematics,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Fields and Galois Theory,MAT 451 3.0,MAT,MAT 451 3.0 Fields and Galois Theory,4,M2,Lecture,Mr. K. K. W. A. Sarath Kumara,10:15-12:00,Special,Physical
+Mathematics,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Functional Analysis,MAT 476 3.0,MAT,MAT 476 3.0 Functional Analysis,4,SRL - Mathematics,Lecture,Dr. Prabath Silva,13:00-15:00,Special,Physical
+Mathematics,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Category Theory,MAT 478 2.0,MAT,MAT 478 2.0 Category Theory,4,SRL - Mathematics,Lecture,Dr. J. K. Rathnayake,10:15-12:00,Special,Physical
+Mathematics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Classical Mechanics,AMT 121 2.0,AMT,AMT 121 2.0 Classical Mechanics,1,C2,Lecture,Mrs. D. S. Rodrigo,10:15-12:00,General,Physical
+Mathematics,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Computational Mathematics,AMT 122 2.0,AMT,AMT 122 2.0 Computational Mathematics,1,M1,Lecture,Dr. R. N. P. De Silva,13:00-15:00,General,Physical
+Mathematics,Thursday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Mathematical Modelling I,AMT 123 1.0,AMT,AMT 123 1.0 Mathematical Modelling I,1,M1,Lecture,Prof. R. P. K. C. M. Ranasinghe,08:55-09:45,General,Physical
+Mathematics,Monday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Fluid Dynamics,AMT 222 2.0,AMT,AMT 222 2.0 Fluid Dynamics,2,M1,Lecture,Dr. N. C. Ganegoda,13:00-15:00,General,Physical
+Mathematics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Mathematical Computing,AMT 221 2.0,AMT,AMT 221 2.0 Mathematical Computing,2,F2,Lecture,Ms. T. A. H. Dilpriya,10:15-12:00,General,Physical
+Mathematics,Friday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Discrete Mathematics,AMT 223 1.0,AMT,AMT 223 1.0 Discrete Mathematics,2,B3,Lecture,Dr. R. P. K. De Silva,10:15-11:05,General,Physical
+Mathematics,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Quantum Mechanics,AMT 322 2.0,AMT,AMT 322 2.0 Quantum Mechanics,3,PLT,Lecture,Mrs. D. S. Rodrigo,10:15-12:00,General,Physical
+Mathematics,Thursday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Operations Research I,AMT 323 1.0,AMT,AMT 323 1.0 Operations Research I,3,PLT,Lecture,Dr. M. T. M. Perera,13:00-15:00,General,Physical
+Mathematics,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Regression Analysis,AMT 325 2.0,AMT,AMT 325 2.0 Regression Analysis,3,M2,Lecture,Mr. Chammika De Mel,10:15-12:00,General,Physical
+Mathematics,Tuesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Seminar and Report Writing,AMT 355 2.0,AMT,AMT 355 2.0 Seminar and Report Writing,3,M1,Lecture,Prof. K. B. M. Fonseka,08:55-12:00,Special,Physical
+Mathematics,Tuesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Data Analysis and Preparation of Reports,AMT 378 2.0,AMT,AMT 378 2.0 Data Analysis and Preparation of Reports,3,M2,Lecture,Mr. Jayasooriya,13:00-15:00,Special,Physical
+Mathematics,Wednesday,1970-01-01T08:00:00Z,1970-01-01T09:45:00Z,Statistical Quality Control,AMT 390 2.0,AMT,AMT 390 2.0 Statistical Quality Control,3,M1,Lecture,Dr. M. T. M. Perera,08:00-09:45,Special,Physical
+Mathematics,Wednesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Quantum Mechanics,AMT 322 2.0,AMT,AMT 322 2.0 Quantum Mechanics,3,PLT,Lecture,Mrs. D. S. Rodrigo,10:15-12:00,Special,Physical
+Mathematics,Wednesday,1970-01-01T13:00:00Z,1970-01-01T15:00:00Z,Computational Statistics,AMT 377 2.0,AMT,AMT 377 2.0 Computational Statistics,3,SRL - Mathematics,Lecture,Dr. C. Wickramarachchi / Mr. Chammika De Mel,13:00-15:00,Special,Physical
+Mathematics,Thursday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Mathematical Modeling II,AMT 321 2.0,AMT,AMT 321 2.0 Mathematical Modeling II,3,M2,Lecture,Prof. R. P. K. C. M. Ranasinghe,10:15-12:00,Special,Physical
+Mathematics,Thursday,1970-01-01T13:00:00Z,1970-01-01T14:00:00Z,Operations Research I,AMT 323 1.0,AMT,AMT 323 1.0 Operations Research I,3,PLT,Lecture,Dr. M. T. M. Perera,13:00-14:00,Special,Physical
+Mathematics,Thursday,1970-01-01T14:00:00Z,1970-01-01T15:00:00Z,Production Control,AMT 326 1.0,AMT,AMT 326 1.0 Production Control,3,M1,Lecture,Dr. M. T. M. Perera,14:00-15:00,Special,Physical
+Mathematics,Friday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Regression Analysis,AMT 325 2.0,AMT,AMT 325 2.0 Regression Analysis,3,M2,Lecture,Mr. Chammika De Mel,10:15-12:00,Special,Physical
+Mathematics,Friday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Seminar and Report Writing,AMT 355 2.0,AMT,AMT 355 2.0 Seminar and Report Writing,3,M1,Lecture,Prof. K. B. M. Fonseka,13:00-16:00,Special,Physical
+Physics,Monday,1970-01-01T14:00:00Z,1970-01-01T16:00:00Z,Thermodynamics,PHY 108 2.0,PHY,PHY 108 2.0 Thermodynamics,1,PLT,Lecture,Prof. A.R. Kumarasinghe,14:00-16:00,General,Physical/Biology
+Physics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Applied Electricity and Basic Electronics,PHY 107 2.0,PHY,PHY 107 2.0 Applied Electricity and Basic Electronics,1,S1,Lecture,Mr. C.H. Manathunga,10:15-12:00,General,Physical/Biology
+Physics,Tuesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,1,P,Practicals,NA,13:00-16:00,General,Physical/Biology
+Physics,Wednesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,1,P,Practicals,NA,13:00-16:00,General,Physical/Biology
+Physics,Wednesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Mathematics for Bio Science Students,PHY 102 2.0,PHY,PHY 102 2.0 Mathematics for Bio Science Students,1,L2,Lecture,Dr. Gaya Jayakody,16:00-17:00,General,Physical/Biology
+Physics,Thursday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Tutorial,PHY T,PHY,PHY T  Tutorial,1,PLT,Tutorial,NA,08:55-09:45,General,Physical/Biology
+Physics,Thursday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Mathematics for Bio Science Students,PHY 102 2.1,PHY,PHY 102 2.1 Mathematics for Bio Science Students,1,L2,Lecture,Dr. Gaya Jayakody,16:00-17:00,General,Physical/Biology
+Physics,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,1,P,Practicals,NA,08:55-12:00,General,Physical/Biology
+Physics,Friday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,1,P,Practicals,NA,13:00-16:00,General,Physical/Biology
+Physics,Monday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,2,P,Practicals,NA,13:00-16:00,General,Physical/Biology
+Physics,Monday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Tutorial,PHY T,PHY,PHY T  Tutorial,2,PLT,Tutorial,NA,16:00-17:00,General,Physical/Biology
+Physics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Mathematical Physics I,PHY 206 1.0,PHY,PHY 206 1.0 Mathematical Physics I,2,PLT,Lecture,Prof. N.G.S.S. Gamage,10:15-11:05,General,Physical/Biology
+Physics,Tuesday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Special Theory of Relativity,PHY 207 1.0,PHY,PHY 207 1.0 Special Theory of Relativity,2,PLT,Lecture,Dr. M.M.P.M. Fernando,11:10-12:00,General,Physical/Biology
+Physics,Wednesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,2,P,Practicals,NA,08:55-12:00,General,Physical/Biology
+Physics,Wednesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,2,P,Practicals,NA,13:00-16:00,General,Physical/Biology
+Physics,Thursday,1970-01-01T10:15:00Z,1970-01-01T11:05:00Z,Atomic & Nuclear Physics,PHY 208 1.0,PHY,PHY 208 1.0 Atomic & Nuclear Physics,2,PLT,Lecture,Dr. MLC Attygalle,10:15-11:05,General,Physical/Biology
+Physics,Thursday,1970-01-01T11:10:00Z,1970-01-01T12:00:00Z,Statistical Physics I,PHY 205 1.0,PHY,PHY 205 1.0 Statistical Physics I,2,PLT,Lecture,Dr. W.W.P. De Silva,11:10-12:00,General,Physical/Biology
+Physics,Friday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,2,P,Practicals,NA,13:00-16:00,General,Physical/Biology
+Physics,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Introduction to Microprocessors,PHY 309 1.0,PHY,PHY 309 1.0 Introduction to Microprocessors,3,PLT,Lecture,Mr. R.A.D.D. Dharmasiri,08:00-08:50,General,Physical/Biology
+Physics,Monday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Introduction to Microprocessors,PHY 309 1.0,PHY,PHY 309 1.0 Introduction to Microprocessors,3,PLT,Lecture,Mr. R.A.D.D. Dharmasiri,08:00-08:50,Special,Physical/Biology
+Physics,Monday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Space Physics I,PHY 310 1.0,PHY,PHY 310 1.0 Space Physics I,3,PLT,Lecture,Dr. M.M.P.M. Fernando,08:55-09:45,General,Physical/Biology
+Physics,Monday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Space Physics I,PHY 310 1.0,PHY,PHY 310 1.0 Space Physics I,3,PLT,Lecture,Dr. M.M.P.M. Fernando,08:55-09:45,Special,Physical/Biology
+Physics,Monday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,3,P,Practicals,NA,13:00-16:00,General,Physical/Biology
+Physics,Monday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,3,P,Practicals,NA,13:00-16:00,Special,Physical/Biology
+Physics,Tuesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Nanophysics,PHY 318 1.0,PHY,PHY 318 1.0 Nanophysics,3,PLT,Lecture,Prof. A.R. Kumarasinghe,08:55-09:45,General,Physical/Biology
+Physics,Tuesday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Nanophysics,PHY 318 1.0,PHY,PHY 318 1.0 Nanophysics,3,PLT,Lecture,Prof. A.R. Kumarasinghe,08:55-09:45,Special,Physical/Biology
+Physics,Tuesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Astronomy,PHY 314 1.0,PHY,PHY 314 1.0 Astronomy,3,PLT,Lecture,Dr. CR Munasinghe,15:00-16:00,General,Physical/Biology
+Physics,Tuesday,1970-01-01T15:00:00Z,1970-01-01T16:00:00Z,Astronomy,PHY 314 1.0,PHY,PHY 314 1.0 Astronomy,3,PLT,Lecture,Dr. CR Munasinghe,15:00-16:00,Special,Physical/Biology
+Physics,Tuesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Industrial Physics,PHY 312 1.0,PHY,PHY 312 1.0 Industrial Physics,3,PLT,Lecture,Dr. D.A.S. Amarasinghe,16:00-17:00,General,Physical/Biology
+Physics,Tuesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Industrial Physics,PHY 312 1.0,PHY,PHY 312 1.0 Industrial Physics,3,PLT,Lecture,Dr. D.A.S. Amarasinghe,16:00-17:00,Special,Physical/Biology
+Physics,Wednesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,3,P,Practicals,NA,08:55-12:00,General,Physical/Biology
+Physics,Wednesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,3,P,Practicals,NA,13:00-16:00,General,Physical/Biology
+Physics,Wednesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Introduction to Computer Hardware,PHY 311 1.0,PHY,PHY 311 1.0 Introduction to Computer Hardware,3,UDG Lab,Lecture,Mr. KS Mannathunga,16:00-17:00,General,Physical/Biology
+Physics,Wednesday,1970-01-01T16:00:00Z,1970-01-01T17:00:00Z,Introduction to Computer Hardware,PHY 311 1.0,PHY,PHY 311 1.0 Introduction to Computer Hardware,3,UDG Lab,Lecture,Mr. KS Mannathunga,16:00-17:00,Special,Physical/Biology
+Physics,Thursday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,3,P,Practicals,NA,08:55-12:00,General,Physical/Biology
+Physics,Friday,1970-01-01T08:55:00Z,1970-01-01T09:45:00Z,Tutorial,PHY T,PHY,PHY T  Tutorial,3,PLT,Tutorial,NA,08:55-09:45,General,Physical/Biology
+Physics,Tuesday,1970-01-01T08:00:00Z,1970-01-01T08:50:00Z,Metrology,PHY 315 1.0,PHY,PHY 315 1.0 Metrology,3,Activity Room - Physics,Lecture,Dr. G.W.C. Wijayasundara,08:00-08:50,Special,Physical/Biology
+Physics,Tuesday,1970-01-01T10:15:00Z,1970-01-01T12:00:00Z,Nuclear Physics,PHY 358 2.0,PHY,PHY 358 2.0 Nuclear Physics,3,Activity Room - Physics,Lecture,Prof. P.K.D.D.P. Pitigala,10:15-12:00,Special,Physical/Biology
+Physics,Wednesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Geophysics II,PHY 357 2.0,PHY,PHY 357 2.0 Geophysics II,3,Activity Room - Physics,Lecture,Prof. N.G.S.S. Gamage,08:55-12:00,Special,Physical/Biology
+Physics,Wednesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,3,P,Practicals,NA,13:00-16:00,Special,Physical/Biology
+Physics,Thursday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,3,P,Practicals,NA,08:55-12:00,Special,Physical/Biology
+Physics,Thursday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Practicals,PHY P,PHY,PHY P Practicals,3,P,Practicals,NA,13:00-16:00,Special,Physical/Biology
+Physics,Friday,1970-01-01T08:00:00Z,1970-01-01T12:00:00Z,Solid State Physics II,PHY 356 2.0,PHY,PHY 356 2.0 Solid State Physics II,3,Activity Room - Physics,Lecture,Dr. D.N. Jayawardane,08:00-12:00,Special,Physical/Biology
+Physics,Friday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Workshop Training,PHY 360 2.0,PHY,PHY 360 2.0 Workshop Training,3,NA,Lecture,Prof. P.K.D.D.P. Pitigala,13:00-16:00,Special,Physical/Biology
+Physics,Monday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Seminar 2 Activities,PHY 459 2.0,PHY,PHY 459 2.0 Seminar 2 Activities,4,Activity Room - Physics,Lecture,Dr. W.W.P. De Silva,13:00-16:00,Special,Physical/Biology
+Physics,Tuesday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Quantum Mechanics II,PHY 456 3.0,PHY,PHY 456 3.0 Quantum Mechanics II,4,SLH - Physics,Lecture,Dr. S. Kandeepan,08:55-12:00,Special,Physical/Biology
+Physics,Tuesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Space and Atmospheric Physics,PHY 458 2.0,PHY,PHY 458 2.0 Space and Atmospheric Physics,4,UDG Lab,Lecture,Dr. M.M.P.M. Fernando,13:00-16:00,Special,Physical/Biology
+Physics,Wednesday,1970-01-01T13:00:00Z,1970-01-01T16:00:00Z,Seminar 2 Activities,PHY 459 2.0,PHY,PHY 459 2.0 Seminar 2 Activities,4,Activity Room - Physics,Lecture,Dr. W.W.P. De Silva,13:00-16:00,Special,Physical/Biology
+Physics,Friday,1970-01-01T08:55:00Z,1970-01-01T12:00:00Z,Particle Physics and Instrumentation,PHY 457 2.0,PHY,PHY 457 2.0 Particle Physics and Instrumentation,4,SLH - Physics,Lecture,Dr. W.W.P. De Silva,08:55-12:00,Special,Physical/Biology

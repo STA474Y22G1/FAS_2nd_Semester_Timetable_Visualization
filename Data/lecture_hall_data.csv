@@ -1,0 +1,35 @@
+"","Lecture Hall","Description","Seating Capacity","Bussiest Day","...5","...6","...7","Lecture count"
+"1","A1","Zoology Auditorium",200,"Monday",NA,NA,NA,33
+"2","B1","Botany Auditorium",120,"Tuesday & Thursday",NA,NA,NA,11
+"3","B2","Botany Lecture Theatre 1",100,"Monday",NA,NA,NA,17
+"4","B3","Botany Lecture Theatre 2",50,"Tuesday",NA,NA,NA,24
+"5","C1","Chemistry Lecture Theatre 1",250,"Tuesday",NA,NA,NA,18
+"6","C2","Chemistry Lecture Theatre 2",150,"Tuesday & Thursday",NA,NA,NA,15
+"7","C3","Chemistry Lecture Theatre 3",50,"Monday",NA,NA,NA,19
+"8","C4","Chemistry Lecture Theatre 4",40,"Monday, Tuesday & Wednesday",NA,NA,NA,14
+"9","F1","Forestry Auditorium",50,"Thursday",NA,NA,NA,20
+"10","F2","Forestry Lecture Theatre 2",250,"Tuesday",NA,NA,NA,8
+"11","F3","Forestry Lecture Theatre 3",30,"Thursday",NA,NA,NA,5
+"12","M1","Mathematics Lecture Theatre 1",85,"Tuesday, Friday & Wednesday",NA,NA,NA,12
+"13","M2","Mathematics Lecture Theatre 2",100,"Monday & Wednesday",NA,NA,NA,6
+"14","NFC2","New Faculty Complex (First Floor)",100,"Friday",NA,NA,NA,19
+"15","NFC3","New Faculty Complex (Second Floor)",140,"Monday",NA,NA,NA,17
+"16","NFC4","New Faculty Complex (Third Floor)",150,"Wednesday",NA,NA,NA,18
+"17","NFC5","New Faculty Complex (Mini Auditorium)",40,"Monday",NA,NA,NA,28
+"18","NFC6","New Faculty Complex (Fifth Floor)",80,"Monday & Wednesday",NA,NA,NA,27
+"19","PLT","Physics Lecture Theatre",200,"Monday",NA,NA,NA,20
+"20","S1","Science Auditorium",600,"Wednesday",NA,NA,NA,19
+"21","Stat Lab","New Faculty Complex (Third Floor) Lab",40,"Monday",NA,NA,NA,12
+"22","Stat Lab2","New Faculty Complex (Third Floor) Lab 2",20,"Thursday",NA,NA,NA,4
+"23","LCS1","New Faculty Complex (Second Floor) Lab 1",100,"Monday & Tuesday",NA,NA,NA,3
+"24","LCS2","New Faculty Complex (Second Floor) Lab 2",50,"Thursday",NA,NA,NA,3
+"25","SLH - Botany","Special Lecture Hall - Botany",30,"Monday",NA,NA,NA,13
+"26","SCR","Smart Classroom",30,"Monday",NA,NA,NA,3
+"27","BLC",NA,60,"Tuesday",NA,NA,NA,1
+"28","SP - Forestry",NA,30,"Thursday",NA,NA,NA,9
+"29","BLT","Biology Lecture Theatre",60,"Wednesday",NA,NA,NA,2
+"30","UDG Lab",NA,30,"Tuesday",NA,NA,NA,2
+"31","Activity Room - Physics","Activity Room - Physics",100,"Wednesday",NA,NA,NA,5
+"32","SLH - Physics","Special Lecture Hall - Physics",25,"Tuesday & Friday",NA,NA,NA,2
+"33","SRL - Mathematics","Special Lecture Hall - Mathematics",16,"Wednesday",NA,NA,NA,6
+"34","L2","Unknown physics",40,"Wednesday & Thursday",NA,NA,NA,2
