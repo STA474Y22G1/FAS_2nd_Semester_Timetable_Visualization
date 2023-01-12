@@ -399,6 +399,7 @@ server <- function(input, output, session) {
                                          htmltools::em('Course Finder'))
   )
   
+  # Making the data downloadable as a csv file 
   output$download1 <- downloadHandler(
     filename = function(){"timetable.csv"}, 
     content = function(fname){
