@@ -160,7 +160,8 @@ ui <- dashboardPage(skin="purple",
                 box(plotlyOutput("course_view_plot1", height = 270), width = 9, height = 300),
                 
                 # Course finder table
-                box(dataTableOutput("CourseData"), width = 12)),
+                box(downloadButton('download1',"Download Timetable"),
+                    dataTableOutput("CourseData"), width = 12))
               
               
       ),
@@ -397,6 +398,15 @@ server <- function(input, output, session) {
                                          color: black; font-family: arial; font-size: 1.8rem;',
                                          htmltools::em('Course Finder'))
   )
+  
+  output$download1 <- downloadHandler(
+    filename = function(){"timetable.csv"}, 
+    content = function(fname){
+      write.csv(course(), fname)
+    }
+  )
+  
+
   
   
   ## Lecturer View Tab
