@@ -178,23 +178,23 @@ ui <- dashboardPage(skin="purple",
       # Lecture hall view tab
       tabItem(tabName = "Lecture_Hall_View",
               # Treemap 
-              box(plotlyOutput("hall_view_plot1", height = 680)),
+              box(plotlyOutput("hall_view_plot1", height = 573)),
               
               fluidRow(
                 box(height = 100,
-                  selectInput("opt", label = h4("Select Lecture Hall:"),
-                              choices = lecture_halls_names)
+                    selectInput("opt", label = h4("Select Lecture Hall:"),
+                                choices = lecture_halls_names)
                 ),
                 
                 # KPI 1  
                 # Number of courses per week
-                valueBoxOutput("hall_view_kpi1", width = 6),
+                valueBoxOutput("hall_view_kpi1", width = 3),
                 
                 # KPI 2
-                valueBoxOutput("hall_view_kpi2", width = 6),
+                valueBoxOutput("hall_view_kpi2", width = 3),
                 
                 # Heatmap
-                box(plotOutput("hall_view_plot2", height = 315, width = 500))
+                box(plotOutput("hall_view_plot2", height = 350, width = 500))
         )
       ),
       ##About tab
@@ -478,7 +478,7 @@ server <- function(input, output, session) {
     option_kpi1 <- lecture_hall_data %>%
       filter(`Lecture Hall` == input$opt) 
     
-    valueBox(value = option_kpi1$`Lecture count`,
+    valueBox(value = tags$p(paste0(option_kpi1$`Lecture count`), style = "font-size: 50%;"),
              subtitle = "Number of lectures per week",
              # color = "blue")
              color = "teal")
@@ -491,7 +491,7 @@ server <- function(input, output, session) {
     option_kpi2 <- lecture_hall_data %>%
       filter(`Lecture Hall` == input$opt) 
     
-    valueBox(value = option_kpi2$`Bussiest Day`,
+    valueBox(value = tags$p(paste0(option_kpi2$`Bussiest Day`), style = "font-size: 50%;"),
              subtitle = "Busiest Day/s of the Lecture Hall",
              color = "olive")
     
